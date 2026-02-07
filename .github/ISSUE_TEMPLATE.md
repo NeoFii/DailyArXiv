@@ -1,5 +1,5 @@
 ---
-title: Latest 50 Papers - February 05, 2026
+title: Latest 50 Papers - February 07, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/NeoFii/Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,13 +7,36 @@ labels: documentation
 ## LLM Reasoning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ContextBench: A Benchmark for Context Retrieval in Coding Agents](https://arxiv.org/abs/2602.05892v1)** | 2026-02-05 | <details><summary>36 pa...</summary><p>36 pages, 6 figures, 4 tables</p></details> |
+| **[Opportunistically Parallel Lambda Calculus](https://arxiv.org/abs/2405.11361v4)** | 2026-02-05 |  |
+| **[Task-Oriented Robot-Human Handovers on Legged Manipulators](https://arxiv.org/abs/2602.05760v1)** | 2026-02-05 | <details><summary>Accep...</summary><p>Accepted to 21st ACM/IEEE International Conference on Human-Robot Interaction (HRI) 2026</p></details> |
+| **[LongR: Unleashing Long-Context Reasoning via Reinforcement Learning with Dense Utility Rewards](https://arxiv.org/abs/2602.05758v1)** | 2026-02-05 |  |
+| **[Cost-Efficient RAG for Entity Matching with LLMs: A Blocking-based Exploration](https://arxiv.org/abs/2602.05708v1)** | 2026-02-05 |  |
+| **[Unveiling Implicit Advantage Symmetry: Why GRPO Struggles with Exploration and Difficulty Adaptation](https://arxiv.org/abs/2602.05548v1)** | 2026-02-05 |  |
+| **[Multi-Task GRPO: Reliable LLM Reasoning Across Tasks](https://arxiv.org/abs/2602.05547v1)** | 2026-02-05 | Preprint |
+| **[ALIVE: Awakening LLM Reasoning via Adversarial Learning and Instructive Verbal Evaluation](https://arxiv.org/abs/2602.05472v1)** | 2026-02-05 |  |
+| **[GTPO and GRPO-S: Token and Sequence-Level Reward Shaping with Policy Entropy](https://arxiv.org/abs/2508.04349v6)** | 2026-02-05 |  |
+| **[Back to Basics: Revisiting Exploration in Reinforcement Learning for LLM Reasoning via Generative Probabilities](https://arxiv.org/abs/2602.05281v1)** | 2026-02-05 |  |
+| **[Understanding LLM Evaluator Behavior: A Structured Multi-Evaluator Framework for Merchant Risk Assessment](https://arxiv.org/abs/2602.05110v1)** | 2026-02-04 |  |
+| **[Robust Answers, Fragile Logic: Probing the Decoupling Hypothesis in LLM Reasoning](https://arxiv.org/abs/2505.17406v2)** | 2026-02-04 |  |
+| **[Evaluating Code Reasoning Abilities of Large Language Models Under Real-World Settings](https://arxiv.org/abs/2512.14917v2)** | 2026-02-04 |  |
+| **[Beyond KL Divergence: Policy Optimization with Flexible Bregman Divergences for LLM Reasoning](https://arxiv.org/abs/2602.04380v1)** | 2026-02-04 |  |
+| **[Internalizing LLM Reasoning via Discovery and Replay of Latent Actions](https://arxiv.org/abs/2602.04925v1)** | 2026-02-04 |  |
+| **[From Assumptions to Actions: Turning LLM Reasoning into Uncertainty-Aware Planning for Embodied Agents](https://arxiv.org/abs/2602.04326v1)** | 2026-02-04 | <details><summary>31 pa...</summary><p>31 pages, 10 figures, Accepted ICLR 2026</p></details> |
+| **[Contextual Drag: How Errors in the Context Affect LLM Reasoning](https://arxiv.org/abs/2602.04288v1)** | 2026-02-04 |  |
+| **[Thickening-to-Thinning: Reward Shaping via Human-Inspired Learning Dynamics for LLM Reasoning](https://arxiv.org/abs/2602.04265v1)** | 2026-02-04 |  |
+| **[Not All Negative Samples Are Equal: LLMs Learn Better from Plausible Reasoning](https://arxiv.org/abs/2602.03516v2)** | 2026-02-04 |  |
+| **[CoBA-RL: Capability-Oriented Budget Allocation for Reinforcement Learning in LLMs](https://arxiv.org/abs/2602.03048v2)** | 2026-02-04 |  |
+| **[Beyond Mode Elicitation: Diversity-Preserving Reinforcement Learning via Latent Diffusion Reasoner](https://arxiv.org/abs/2602.01705v2)** | 2026-02-03 |  |
+| **[Likelihood-Based Reward Designs for General LLM Reasoning](https://arxiv.org/abs/2602.03979v1)** | 2026-02-03 |  |
+| **[Adaptive Test-Time Compute Allocation via Learned Heuristics over Categorical Structure](https://arxiv.org/abs/2602.03975v1)** | 2026-02-03 |  |
 | **[Reuse your FLOPs: Scaling RL on Hard Problems by Conditioning on Very Off-Policy Prefixes](https://arxiv.org/abs/2601.18795v2)** | 2026-02-03 |  |
 | **[Think Silently, Think Fast: Dynamic Latent Compression of LLM Reasoning Chains](https://arxiv.org/abs/2505.16552v6)** | 2026-02-03 | 15 pages, 8 figures |
 | **[Interpreting and Controlling LLM Reasoning through Integrated Policy Gradient](https://arxiv.org/abs/2602.02313v2)** | 2026-02-03 |  |
 | **[The Path of Least Resistance: Guiding LLM Reasoning Trajectories with Prefix Consensus](https://arxiv.org/abs/2601.21494v2)** | 2026-02-03 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026. https://openreview.net/forum?id=hrnSqERgPn</p></details> |
-| **[Not All Negative Samples Are Equal: LLMs Learn Better from Plausible Reasoning](https://arxiv.org/abs/2602.03516v1)** | 2026-02-03 |  |
 | **[Self-Verification Dilemma: Experience-Driven Suppression of Overused Checking in LLM Reasoning](https://arxiv.org/abs/2602.03485v1)** | 2026-02-03 | 19 pages, 8 figures |
 | **[Don't Overthink it. Preferring Shorter Thinking Chains for Improved LLM Reasoning](https://arxiv.org/abs/2505.17813v2)** | 2026-02-03 |  |
+| **[Knowledge Model Prompting Increases LLM Performance on Planning Tasks](https://arxiv.org/abs/2602.03900v1)** | 2026-02-03 |  |
 | **[Accordion-Thinking: Self-Regulated Step Summaries for Efficient and Readable LLM Reasoning](https://arxiv.org/abs/2602.03249v1)** | 2026-02-03 |  |
 | **[Depth-Breadth Synergy in RLVR: Unlocking LLM Reasoning Gains with Adaptive Exploration](https://arxiv.org/abs/2508.13755v5)** | 2026-02-03 | 18 pages, 14 figures |
 | **[Distilling LLM Reasoning into Graph of Concept Predictors](https://arxiv.org/abs/2602.03006v1)** | 2026-02-03 |  |
@@ -22,7 +45,6 @@ labels: documentation
 | **["I May Not Have Articulated Myself Clearly": Diagnosing Dynamic Instability in LLM Reasoning at Inference Time](https://arxiv.org/abs/2602.02863v1)** | 2026-02-02 | <details><summary>21 pa...</summary><p>21 pages, 12 figures, 15 tables</p></details> |
 | **[Chain of Simulation: A Dual-Mode Reasoning Framework for Large Language Models with Dynamic Problem Routing](https://arxiv.org/abs/2602.02842v1)** | 2026-02-02 |  |
 | **[A Single Revision Step Improves Token-Efficient LLM Reasoning](https://arxiv.org/abs/2602.02828v1)** | 2026-02-02 |  |
-| **[Scaling-Aware Adapter for Structure-Grounded LLM Reasoning](https://arxiv.org/abs/2602.02780v1)** | 2026-02-02 | <details><summary>Under...</summary><p>Under review at ICML 2026</p></details> |
 | **[DESIGNER: Design-Logic-Guided Multidisciplinary Data Synthesis for LLM Reasoning](https://arxiv.org/abs/2508.12726v6)** | 2026-02-02 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026. Project page: https://attention-is-all-i-need.github.io/Design-Logic-Reasoning</p></details> |
 | **[Training LLMs for Divide-and-Conquer Reasoning Elevates Test-Time Scalability](https://arxiv.org/abs/2602.02477v1)** | 2026-02-02 |  |
 | **[Embedding Perturbation may Better Reflect the Uncertainty in LLM Reasoning](https://arxiv.org/abs/2602.02427v1)** | 2026-02-02 |  |
@@ -34,87 +56,66 @@ labels: documentation
 | **[Bottom-up Policy Optimization: Your Language Model Policy Secretly Contains Internal Policies](https://arxiv.org/abs/2512.19673v2)** | 2026-02-02 | <details><summary>Prepr...</summary><p>Preprint. Our code is available at https://github.com/Trae1ounG/BuPO</p></details> |
 | **[Prism: Efficient Test-Time Scaling via Hierarchical Search and Self-Verification for Discrete Diffusion Language Models](https://arxiv.org/abs/2602.01842v1)** | 2026-02-02 |  |
 | **[Grad2Reward: From Sparse Judgment to Dense Rewards for Improving Open-Ended LLM Reasoning](https://arxiv.org/abs/2602.01791v1)** | 2026-02-02 |  |
-| **[Beyond Mode Elicitation: Diversity-Preserving Reinforcement Learning via Latent Diffusion Reasoner](https://arxiv.org/abs/2602.01705v1)** | 2026-02-02 |  |
 | **[Scaling Search-Augmented LLM Reasoning via Adaptive Information Control](https://arxiv.org/abs/2602.01672v1)** | 2026-02-02 | Work in progress |
-| **[TransportAgents: a multi-agents LLM framework for traffic accident severity prediction](https://arxiv.org/abs/2601.15519v2)** | 2026-02-02 |  |
-| **[RE-MCDF: Closed-Loop Multi-Expert LLM Reasoning for Knowledge-Grounded Clinical Diagnosis](https://arxiv.org/abs/2602.01297v1)** | 2026-02-01 | 9 pages, 4 figures |
-| **[EDIS: Diagnosing LLM Reasoning via Entropy Dynamics](https://arxiv.org/abs/2602.01288v1)** | 2026-02-01 | <details><summary>Under...</summary><p>Under review at ICML 2026</p></details> |
-| **[A State-Transition Framework for Efficient LLM Reasoning](https://arxiv.org/abs/2602.01198v1)** | 2026-02-01 | ICLR 2026 |
-| **[Bridging Lexical Ambiguity and Vision: A Mini Review on Visual Word Sense Disambiguation](https://arxiv.org/abs/2602.01193v1)** | 2026-02-01 | <details><summary>2 fig...</summary><p>2 figures, 2 Tables, Accepted at IEEE TIC 2026</p></details> |
-| **[SetPO: Set-Level Policy Optimization for Diversity-Preserving LLM Reasoning](https://arxiv.org/abs/2602.01062v1)** | 2026-02-01 |  |
-| **[Discovering Process-Outcome Credit in Multi-Step LLM Reasoning](https://arxiv.org/abs/2602.01034v1)** | 2026-02-01 |  |
-| **[FastTTS: Accelerating Test-Time Scaling for Edge LLM Reasoning](https://arxiv.org/abs/2509.00195v2)** | 2026-01-31 | <details><summary>Accep...</summary><p>Accepted at ASPLOS 2026</p></details> |
-| **[Enhancing LLM Reasoning via Non-Human-Like Reasoning Path Preference Optimization](https://arxiv.org/abs/2510.11104v2)** | 2026-01-31 | 15 pages |
-| **[RLKD: Distilling LLMs' Reasoning via Reinforcement Learning](https://arxiv.org/abs/2505.16142v4)** | 2026-01-31 | 15 pages |
-| **[Breaking the Exploration Bottleneck: Rubric-Scaffolded Reinforcement Learning for General LLM Reasoning](https://arxiv.org/abs/2508.16949v6)** | 2026-01-30 |  |
-| **[RAudit: A Blind Auditing Protocol for Large Language Model Reasoning](https://arxiv.org/abs/2601.23133v1)** | 2026-01-30 | <details><summary>24 pa...</summary><p>24 pages, 21 tables, 3 figures</p></details> |
-| **[OrLog: Resolving Complex Queries with LLMs and Probabilistic Reasoning](https://arxiv.org/abs/2601.23085v1)** | 2026-01-30 | <details><summary>Accep...</summary><p>Accepted to ECIR 2026</p></details> |
-| **[Learning to Explore with Parameter-Space Noise: A Deep Dive into Parameter-Space Noise for Reinforcement Learning with Verifiable Rewards](https://arxiv.org/abs/2602.02555v1)** | 2026-01-30 | 17 pages, 10 Figures |
-| **[Navigate the Unknown: Enhancing LLM Reasoning with Intrinsic Motivation Guided Exploration](https://arxiv.org/abs/2505.17621v6)** | 2026-01-30 |  |
-| **[Collaborative Belief Reasoning with LLMs for Efficient Multi-Agent Collaboration](https://arxiv.org/abs/2509.21981v3)** | 2026-01-30 |  |
-| **[Can Aha Moments Be Fake? Identifying True and Decorative Thinking Steps in Chain-of-Thought](https://arxiv.org/abs/2510.24941v2)** | 2026-01-30 |  |
-| **[Rethinking the Sampling Criteria in Reinforcement Learning for LLM Reasoning: A Competence-Difficulty Alignment Perspective](https://arxiv.org/abs/2505.17652v3)** | 2026-01-30 |  |
-| **[Pushing the Boundaries of Natural Reasoning: Interleaved Bonus from Formal-Logic Verification](https://arxiv.org/abs/2601.22642v1)** | 2026-01-30 |  |
-| **[ReNCE: Learning to Reason by Noise Contrastive Estimation](https://arxiv.org/abs/2601.22432v1)** | 2026-01-30 |  |
-| **[MERMAID: Memory-Enhanced Retrieval and Reasoning with Multi-Agent Iterative Knowledge Grounding for Veracity Assessment](https://arxiv.org/abs/2601.22361v1)** | 2026-01-29 |  |
 
 ## Chain of Thought
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Think Silently, Think Fast: Dynamic Latent Compression of LLM Reasoning Chains](https://arxiv.org/abs/2505.16552v6)** | 2026-02-03 | 15 pages, 8 figures |
-| **[Beyond Tokens: Semantic-Aware Speculative Decoding for Efficient Inference by Probing Internal States](https://arxiv.org/abs/2602.03708v1)** | 2026-02-03 |  |
-| **[Rethinking Bottlenecks in Safety Fine-Tuning of Vision Language Models](https://arxiv.org/abs/2501.18533v3)** | 2026-02-03 |  |
-| **[Self-CriTeach: LLM Self-Teaching and Self-Critiquing for Improving Robotic Planning via Automated Domain Generation](https://arxiv.org/abs/2509.21543v2)** | 2026-02-03 | 31 pages, 6 figures |
-| **[AffordanceGrasp-R1:Leveraging Reasoning-Based Affordance Segmentation with Reinforcement Learning for Robotic Grasping](https://arxiv.org/abs/2602.03547v1)** | 2026-02-03 | Preprint version |
-| **[Interpretable Logical Anomaly Classification via Constraint Decomposition and Instruction Fine-Tuning](https://arxiv.org/abs/2602.03530v1)** | 2026-02-03 | 6 pages, 6 figures |
-| **[Not All Negative Samples Are Equal: LLMs Learn Better from Plausible Reasoning](https://arxiv.org/abs/2602.03516v1)** | 2026-02-03 |  |
-| **[Chain-of-Goals Hierarchical Policy for Long-Horizon Offline Goal-Conditioned RL](https://arxiv.org/abs/2602.03389v1)** | 2026-02-03 | 22 pages |
-| **[Chain-of-Thought Hijacking](https://arxiv.org/abs/2510.26418v3)** | 2026-02-03 |  |
-| **[UniFGVC: Universal Training-Free Few-Shot Fine-Grained Vision Classification via Attribute-Aware Multimodal Retrieval](https://arxiv.org/abs/2508.04136v3)** | 2026-02-03 |  |
-| **[Synthesizing File-Level Data for Unit Test Generation with Chain-of-Thoughts via Self-Debugging](https://arxiv.org/abs/2602.03181v1)** | 2026-02-03 |  |
-| **[Short Chains, Deep Thoughts: Balancing Reasoning Efficiency and Intra-Segment Capability via Split-Merge Optimization](https://arxiv.org/abs/2602.03141v1)** | 2026-02-03 |  |
-| **[Rank-and-Reason: Multi-Agent Collaboration Accelerates Zero-Shot Protein Mutation Prediction](https://arxiv.org/abs/2602.00197v2)** | 2026-02-03 | <details><summary>22 pa...</summary><p>22 pages, 5 figures, 15 tables</p></details> |
-| **[Thinking with Comics: Enhancing Multimodal Reasoning through Structured Visual Storytelling](https://arxiv.org/abs/2602.02453v2)** | 2026-02-03 | Working paper |
-| **[GlimpRouter: Efficient Collaborative Inference by Glimpsing One Token of Thoughts](https://arxiv.org/abs/2601.05110v2)** | 2026-02-03 | <details><summary>Code ...</summary><p>Code available at https://github.com/Zengwh02/GlimpRouter</p></details> |
-| **[Are LLMs Biased Like Humans? Causal Reasoning as a Function of Prior Knowledge, Irrelevant Information, and Reasoning Budget](https://arxiv.org/abs/2602.02983v1)** | 2026-02-03 |  |
-| **[Testing Framework Migration with Large Language Models](https://arxiv.org/abs/2602.02964v1)** | 2026-02-03 | <details><summary>Accep...</summary><p>Accepted for publication at AST 2026</p></details> |
-| **[Reasoning about Reasoning: BAPO Bounds on Chain-of-Thought Token Complexity in LLMs](https://arxiv.org/abs/2602.02909v1)** | 2026-02-02 | 28 pages |
-| **[Reuse, Don't Recompute: Efficient Large Reasoning Model Inference via Memory Orchestration](https://arxiv.org/abs/2511.12987v2)** | 2026-02-02 |  |
-| **[ViThinker: Active Vision-Language Reasoning via Dynamic Perceptual Querying](https://arxiv.org/abs/2602.02873v1)** | 2026-02-02 |  |
-| **[Accelerating Structured Chain-of-Thought in Autonomous Vehicles](https://arxiv.org/abs/2602.02864v1)** | 2026-02-02 |  |
-| **[Which Reasoning Trajectories Teach Students to Reason Better? A Simple Metric of Informative Alignment](https://arxiv.org/abs/2601.14249v2)** | 2026-02-02 | <details><summary>27 pa...</summary><p>27 pages. Project page: https://github.com/UmeanNever/RankSurprisalRatio</p></details> |
-| **[Training LLMs for Divide-and-Conquer Reasoning Elevates Test-Time Scalability](https://arxiv.org/abs/2602.02477v1)** | 2026-02-02 |  |
-| **[Structure Enables Effective Self-Localization of Errors in LLMs](https://arxiv.org/abs/2602.02416v1)** | 2026-02-02 |  |
-| **[Outcome-Based RL Provably Leads Transformers to Reason, but Only With the Right Data](https://arxiv.org/abs/2601.15158v3)** | 2026-02-02 | 87 pages, 6 figures |
-| **[CoT-RVS: Zero-Shot Chain-of-Thought Reasoning Segmentation for Videos](https://arxiv.org/abs/2505.18561v4)** | 2026-02-02 | <details><summary>Accep...</summary><p>Accepted to ICLR 2026. Project page: https://danielshkao.github.io/cot-rvs.html. Code: https://github.com/DanielSHKao/CoT-RVS</p></details> |
-| **[ROG: Retrieval-Augmented LLM Reasoning for Complex First-Order Queries over Knowledge Graphs](https://arxiv.org/abs/2602.02382v1)** | 2026-02-02 |  |
-| **[HunyuanImage 3.0 Technical Report](https://arxiv.org/abs/2509.23951v2)** | 2026-02-02 |  |
-| **[LoopViT: Scaling Visual ARC with Looped Transformers](https://arxiv.org/abs/2602.02156v1)** | 2026-02-02 | 8 pages, 11 figures |
-| **[No Global Plan in Chain-of-Thought: Uncover the Latent Planning Horizon of LLMs](https://arxiv.org/abs/2602.02103v1)** | 2026-02-02 |  |
-| **[LEC-KG: An LLM-Embedding Collaborative Framework for Domain-Specific Knowledge Graph Construction -- A Case Study on SDGs](https://arxiv.org/abs/2602.02090v1)** | 2026-02-02 |  |
-| **[FinCoT: Grounding Chain-of-Thought in Expert Financial Reasoning](https://arxiv.org/abs/2506.16123v5)** | 2026-02-02 | <details><summary>Accep...</summary><p>Accepted at FinNLP-2025, EMNLP (Oral Presentation)</p></details> |
-| **[Stream: Scaling up Mechanistic Interpretability to Long Context in LLMs via Sparse Attention](https://arxiv.org/abs/2510.19875v2)** | 2026-02-02 |  |
-| **[S3-CoT: Self-Sampled Succinct Reasoning Enables Efficient Chain-of-Thought LLMs](https://arxiv.org/abs/2602.01982v1)** | 2026-02-02 |  |
-| **[Towards Faithful Reasoning in Remote Sensing: A Perceptually-Grounded GeoSpatial Chain-of-Thought for Vision-Language Models](https://arxiv.org/abs/2509.22221v2)** | 2026-02-02 |  |
-| **[Seeing Is Believing? A Benchmark for Multimodal Large Language Models on Visual Illusions and Anomalies](https://arxiv.org/abs/2602.01816v1)** | 2026-02-02 |  |
-| **[LaST$_{0}$: Latent Spatio-Temporal Chain-of-Thought for Robotic Vision-Language-Action Model](https://arxiv.org/abs/2601.05248v2)** | 2026-02-02 |  |
-| **[R-Stitch: Dynamic Trajectory Stitching for Efficient Reasoning](https://arxiv.org/abs/2507.17307v5)** | 2026-02-02 |  |
-| **[SpatialViz-Bench: A Cognitively-Grounded Benchmark for Diagnosing Spatial Visualization in MLLMs](https://arxiv.org/abs/2507.07610v5)** | 2026-02-02 |  |
-| **[Beyond Mode Elicitation: Diversity-Preserving Reinforcement Learning via Latent Diffusion Reasoner](https://arxiv.org/abs/2602.01705v1)** | 2026-02-02 |  |
-| **[Beyond Dense States: Elevating Sparse Transcoders to Active Operators for Latent Reasoning](https://arxiv.org/abs/2602.01695v1)** | 2026-02-02 |  |
-| **[STELAR-VISION: Self-Topology-Aware Efficient Learning for Aligned Reasoning in Vision](https://arxiv.org/abs/2508.08688v2)** | 2026-02-02 | <details><summary>This ...</summary><p>This paper has been accepted at AAAI 2026. This is the author's extended version. The final version will appear in the official proceedings</p></details> |
-| **[Omni-Judge: Can Omni-LLMs Serve as Human-Aligned Judges for Text-Conditioned Audio-Video Generation?](https://arxiv.org/abs/2602.01623v1)** | 2026-02-02 |  |
-| **[CrossCheck-Bench: Diagnosing Compositional Failures in Multimodal Conflict Resolution](https://arxiv.org/abs/2511.21717v2)** | 2026-02-02 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
-| **[Toward Cognitive Supersensing in Multimodal Large Language Model](https://arxiv.org/abs/2602.01541v1)** | 2026-02-02 |  |
-| **[ConPress: Learning Efficient Reasoning from Multi-Question Contextual Pressure](https://arxiv.org/abs/2602.01472v1)** | 2026-02-01 |  |
-| **[Understanding QA generation: Extracting Parametric and Contextual Knowledge with CQA for Low Resource Bangla Language](https://arxiv.org/abs/2602.01451v1)** | 2026-02-01 |  |
-| **[CRAFT: Calibrated Reasoning with Answer-Faithful Traces via Reinforcement Learning for Multi-Hop Question Answering](https://arxiv.org/abs/2602.01348v1)** | 2026-02-01 |  |
-| **[Evolutionary Pre-Prompt Optimization for Mathematical Reasoning](https://arxiv.org/abs/2412.04291v2)** | 2026-02-01 | <details><summary>Revis...</summary><p>Revised and extended version. To appear in ACM Transactions on Evolutionary Learning and Optimization (TELO)</p></details> |
-| **[Predictive Scheduling for Efficient Inference-Time Reasoning in Large Language Models](https://arxiv.org/abs/2602.01237v1)** | 2026-02-01 | ICML ES-FoMo 2025 |
+| **[V-Retrver: Evidence-Driven Agentic Reasoning for Universal Multimodal Retrieval](https://arxiv.org/abs/2602.06034v1)** | 2026-02-05 |  |
+| **[CoT is Not the Chain of Truth: An Empirical Internal Analysis of Reasoning LLMs for Fake News Generation](https://arxiv.org/abs/2602.04856v2)** | 2026-02-05 | 28 pages, 35 figures |
+| **[SelfReflect: Can LLMs Communicate Their Internal Answer Distribution?](https://arxiv.org/abs/2505.20295v4)** | 2026-02-05 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026</p></details> |
+| **[Stop Rewarding Hallucinated Steps: Faithfulness-Aware Step-Level Reinforcement Learning for Small Reasoning Models](https://arxiv.org/abs/2602.05897v1)** | 2026-02-05 |  |
+| **[Weaver: End-to-End Agentic System Training for Video Interleaved Reasoning](https://arxiv.org/abs/2602.05829v1)** | 2026-02-05 |  |
+| **[TKG-Thinker: Towards Dynamic Reasoning over Temporal Knowledge Graphs via Agentic Reinforcement Learning](https://arxiv.org/abs/2602.05818v1)** | 2026-02-05 |  |
+| **[NEX: Neuron Explore-Exploit Scoring for Label-Free Chain-of-Thought Selection and Model Ranking](https://arxiv.org/abs/2602.05805v1)** | 2026-02-05 | <details><summary>21 pa...</summary><p>21 pages, 9 figures, 5 tables</p></details> |
+| **[Why Tree-Style Branching Matters for Thought Advantage Estimation in GRPO](https://arxiv.org/abs/2509.24494v3)** | 2026-02-05 | Under review |
+| **[Resisting Manipulative Bots in Meme Coin Copy Trading: A Multi-Agent Approach with Chain-of-Thought Reasoning](https://arxiv.org/abs/2601.08641v3)** | 2026-02-05 |  |
+| **[Text2SQL-Flow: A Robust SQL-Aware Data Augmentation Framework for Text-to-SQL](https://arxiv.org/abs/2511.10192v3)** | 2026-02-05 |  |
+| **[LMMRec: LLM-driven Motivation-aware Multimodal Recommendation](https://arxiv.org/abs/2602.05474v1)** | 2026-02-05 |  |
+| **[SDR-CIR: Semantic Debias Retrieval Framework for Training-Free Zero-Shot Composed Image Retrieval](https://arxiv.org/abs/2602.04451v2)** | 2026-02-05 | Accepted by WWW 2026 |
+| **[GTPO and GRPO-S: Token and Sequence-Level Reward Shaping with Policy Entropy](https://arxiv.org/abs/2508.04349v6)** | 2026-02-05 |  |
+| **[LayoutCoT: Unleashing the Deep Reasoning Potential of Large Language Models for Layout Generation](https://arxiv.org/abs/2504.10829v3)** | 2026-02-05 |  |
+| **[Fin-R1: A Large Language Model for Financial Reasoning through Reinforcement Learning](https://arxiv.org/abs/2503.16252v4)** | 2026-02-05 |  |
+| **[Multimodal Latent Reasoning via Hierarchical Visual Cues Injection](https://arxiv.org/abs/2602.05359v1)** | 2026-02-05 |  |
+| **[ACE-Step 1.5: Pushing the Boundaries of Open-Source Music Generation](https://arxiv.org/abs/2602.00744v2)** | 2026-02-05 |  |
+| **[MentorCollab: Selective Large-to-Small Inference-Time Guidance for Efficient Reasoning](https://arxiv.org/abs/2602.05307v1)** | 2026-02-05 |  |
+| **[ORACL: Optimized Reasoning for Autoscaling via Chain of Thought with LLMs for Microservices](https://arxiv.org/abs/2602.05292v1)** | 2026-02-05 |  |
+| **[VFScale: Intrinsic Reasoning through Verifier-Free Test-time Scalable Diffusion Model](https://arxiv.org/abs/2502.01989v4)** | 2026-02-05 | <details><summary>ICLR ...</summary><p>ICLR 2026. 30 pages, 13 figures</p></details> |
+| **[Faithful Bi-Directional Model Steering via Distribution Matching and Distributed Interchange Interventions](https://arxiv.org/abs/2602.05234v1)** | 2026-02-05 | <details><summary>55 pa...</summary><p>55 pages, 25 figures; accepted for ICLR 2026</p></details> |
+| **[Short Chains, Deep Thoughts: Balancing Reasoning Efficiency and Intra-Segment Capability via Split-Merge Optimization](https://arxiv.org/abs/2602.03141v2)** | 2026-02-04 | <details><summary>Due t...</summary><p>Due to a misalignment in the timing of publication, we respectfully request to withdraw our manuscript. Specifically, the corresponding author has not given approval for the article to be published at this time, as additional preparations are required. We appreciate your understanding and will resubmit when the author team has reached a unanimous agreement</p></details> |
+| **[Bypassing AI Control Protocols via Agent-as-a-Proxy Attacks](https://arxiv.org/abs/2602.05066v1)** | 2026-02-04 |  |
+| **[Robust Answers, Fragile Logic: Probing the Decoupling Hypothesis in LLM Reasoning](https://arxiv.org/abs/2505.17406v2)** | 2026-02-04 |  |
+| **[Privileged Information Distillation for Language Models](https://arxiv.org/abs/2602.04942v1)** | 2026-02-04 | <details><summary>Abstr...</summary><p>Abstract border should have been purple</p></details> |
+| **[Fluid Representations in Reasoning Models](https://arxiv.org/abs/2602.04843v1)** | 2026-02-04 |  |
+| **[Multi-Excitation Projective Simulation with a Many-Body Physics Inspired Inductive Bias](https://arxiv.org/abs/2402.10192v4)** | 2026-02-04 | <details><summary>41 pa...</summary><p>41 pages, 9 figures; Code repository at https://github.com/MariusKrumm/ManyBodyMEPS. Updated to be consistent with AIJ version</p></details> |
+| **[When Silence Is Golden: Can LLMs Learn to Abstain in Temporal QA and Beyond?](https://arxiv.org/abs/2602.04755v1)** | 2026-02-04 | Accepted to ICLR2026 |
+| **[Latent Chain-of-Thought as Planning: Decoupling Reasoning from Verbalization](https://arxiv.org/abs/2601.21358v2)** | 2026-02-04 |  |
+| **[LinGO: A Linguistic Graph Optimization Framework with LLMs for Interpreting Intents of Online Uncivil Discourse](https://arxiv.org/abs/2602.04693v1)** | 2026-02-04 |  |
+| **[Understanding Degradation with Vision Language Model](https://arxiv.org/abs/2602.04565v1)** | 2026-02-04 | 17 pages |
+| **[Think3D: Thinking with Space for Spatial Reasoning](https://arxiv.org/abs/2601.13029v2)** | 2026-02-04 |  |
+| **[Vision-aligned Latent Reasoning for Multi-modal Large Language Model](https://arxiv.org/abs/2602.04476v1)** | 2026-02-04 | 18 pages; 5 figures |
+| **[Internalizing LLM Reasoning via Discovery and Replay of Latent Actions](https://arxiv.org/abs/2602.04925v1)** | 2026-02-04 |  |
+| **[Beyond Correctness: Rewarding Faithful Reasoning in Retrieval-Augmented Generation](https://arxiv.org/abs/2510.13272v2)** | 2026-02-04 |  |
+| **[MultiPriv: Benchmarking Individual-Level Privacy Reasoning in Vision-Language Models](https://arxiv.org/abs/2511.16940v2)** | 2026-02-04 |  |
+| **[Concise Geometric Description as a Bridge: Unleashing the Potential of LLM for Plane Geometry Problem Solving](https://arxiv.org/abs/2601.21164v2)** | 2026-02-04 | Under review |
+| **[AppleVLM: End-to-end Autonomous Driving with Advanced Perception and Planning-Enhanced Vision-Language Models](https://arxiv.org/abs/2602.04256v1)** | 2026-02-04 |  |
+| **[STELAR-VISION: Self-Topology-Aware Efficient Learning for Aligned Reasoning in Vision](https://arxiv.org/abs/2508.08688v3)** | 2026-02-04 | <details><summary>This ...</summary><p>This paper has been accepted at AAAI 2026. This is the author's extended version. The final version will appear in the official proceedings</p></details> |
+| **[CoLT: Reasoning with Chain of Latent Tool Calls](https://arxiv.org/abs/2602.04246v1)** | 2026-02-04 |  |
+| **[RAPO: Risk-Aware Preference Optimization for Generalizable Safe Reasoning](https://arxiv.org/abs/2602.04224v1)** | 2026-02-04 |  |
+| **[Not All Negative Samples Are Equal: LLMs Learn Better from Plausible Reasoning](https://arxiv.org/abs/2602.03516v2)** | 2026-02-04 |  |
+| **[Language models can learn implicit multi-hop reasoning, but only if they have lots of training data](https://arxiv.org/abs/2505.17923v2)** | 2026-02-04 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2025</p></details> |
+| **[Beyond Tokens: Semantic-Aware Speculative Decoding for Efficient Inference by Probing Internal States](https://arxiv.org/abs/2602.03708v2)** | 2026-02-04 |  |
+| **[Reducing the Costs of Proof Synthesis on Rust Systems by Scaling Up a Seed Training Set](https://arxiv.org/abs/2602.04910v1)** | 2026-02-04 |  |
+| **[Beyond Mode Elicitation: Diversity-Preserving Reinforcement Learning via Latent Diffusion Reasoner](https://arxiv.org/abs/2602.01705v2)** | 2026-02-03 |  |
+| **[CodeSense: a Real-World Benchmark and Dataset for Code Semantic Reasoning](https://arxiv.org/abs/2506.00750v3)** | 2026-02-03 |  |
+| **[On the Credibility of Evaluating LLMs using Survey Questions](https://arxiv.org/abs/2602.04033v1)** | 2026-02-03 | <details><summary>Accep...</summary><p>Accepted to the Workshop on Multilingual and Multicultural Evaluation at EACL 2026, 12 pages, 2 figures</p></details> |
+| **[Plug-and-Play Emotion Graphs for Compositional Prompting in Zero-Shot Speech Emotion Recognition](https://arxiv.org/abs/2509.25458v2)** | 2026-02-03 | <details><summary>Accep...</summary><p>Accepted to ICASSP 2026</p></details> |
+| **[When Chains of Thought Don't Matter: Causal Bypass in Large Language Models](https://arxiv.org/abs/2602.03994v1)** | 2026-02-03 | <details><summary>Under...</summary><p>Under Review at ICLR, 2026</p></details> |
 
 ## LLM Interpretability
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Stroke Lesions as a Rosetta Stone for Language Model Interpretability](https://arxiv.org/abs/2602.04074v1)** | 2026-02-03 | 45 pages, 17 figures |
 | **[Uncertainty-Aware Gradient Signal-to-Noise Data Selection for Instruction Tuning](https://arxiv.org/abs/2601.13697v1)** | 2026-01-20 | Preprint |
 | **[A Shared Geometry of Difficulty in Multilingual Language Models](https://arxiv.org/abs/2601.12731v1)** | 2026-01-19 |  |
 | **[Causal-SAM-LLM: Large Language Models as Causal Reasoners for Robust Medical Segmentation](https://arxiv.org/abs/2507.03585v2)** | 2026-01-16 | <details><summary>Accep...</summary><p>Accepted by IEEE ICASSP 2026</p></details> |
@@ -163,11 +164,18 @@ labels: documentation
 | **[LELANTE: LEveraging LLM for Automated ANdroid TEsting](https://arxiv.org/abs/2504.20896v1)** | 2025-04-29 | <details><summary>6 pag...</summary><p>6 pages, 4 figures, 29th International Conference on Evaluation and Assessment in Software Engineering (EASE)</p></details> |
 | **[On Benchmarking Code LLMs for Android Malware Analysis](https://arxiv.org/abs/2504.00694v2)** | 2025-04-23 | <details><summary>This ...</summary><p>This paper has been accepted to the 34th ACM SIGSOFT ISSTA Companion (LLMSC Workshop 2025)</p></details> |
 | **[Exploring Multimodal Prompt for Visualization Authoring with Large Language Models](https://arxiv.org/abs/2504.13700v1)** | 2025-04-18 | 11 pages, 8 figures |
-| **[Improving LLM Interpretability and Performance via Guided Embedding Refinement for Sequential Recommendation](https://arxiv.org/abs/2504.11658v1)** | 2025-04-15 |  |
 
 ## Explainable AI
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Towards Visually Explaining Statistical Tests with Applications in Biomedical Imaging](https://arxiv.org/abs/2601.13899v2)** | 2026-02-05 |  |
+| **[Ontology-Driven Robotic Specification Synthesis](https://arxiv.org/abs/2602.05456v1)** | 2026-02-05 | <details><summary>8 pag...</summary><p>8 pages, 9 figures, 3 tables, journal</p></details> |
+| **[Explainable AI: A Combined XAI Framework for Explaining Brain Tumour Detection Models](https://arxiv.org/abs/2602.05240v1)** | 2026-02-05 |  |
+| **[Reliable Explanations or Random Noise? A Reliability Metric for XAI](https://arxiv.org/abs/2602.05082v1)** | 2026-02-04 |  |
+| **["Faithful to What?" On the Limits of Fidelity-Based Explanations](https://arxiv.org/abs/2506.12176v4)** | 2026-02-04 | <details><summary>6 pag...</summary><p>6 pages, 3 figures, 3 tables. Submitted to ICLR (Workshop on Scientific Methods for Understanding Deep Learning). Code available at https://github.com/jacksoneshbaugh/lambda-linearity-score/tree/main</p></details> |
+| **[Smart Diagnosis and Early Intervention in PCOS: A Deep Learning Approach to Women's Reproductive Health](https://arxiv.org/abs/2602.04944v1)** | 2026-02-04 | <details><summary>6 pag...</summary><p>6 pages, 12 figures. This is the author's accepted manuscript of a paper accepted for publication in the Proceedings of the 16th International IEEE Conference on Computing, Communication and Networking Technologies (ICCCNT 2025). The final published version will be available via IEEE Xplore</p></details> |
+| **[Attention Consistency Regularization for Interpretable Early-Exit Neural Networks](https://arxiv.org/abs/2601.08891v2)** | 2026-02-04 | 2 pages, 1 figure |
+| **[Scalable Explainability-as-a-Service (XaaS) for Edge AI Systems](https://arxiv.org/abs/2602.04120v1)** | 2026-02-04 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, submitted and accepted in the conference IEEE SoutheastCon 2026</p></details> |
 | **[Position: Explaining Behavioral Shifts in Large Language Models Requires a Comparative Approach](https://arxiv.org/abs/2602.02304v1)** | 2026-02-02 |  |
 | **[When more precision is worse: Do people recognize inadequate scene representations in concept-based explainable AI?](https://arxiv.org/abs/2602.02298v1)** | 2026-02-02 |  |
 | **[Investigating Modality Contribution in Audio LLMs for Music](https://arxiv.org/abs/2509.20641v2)** | 2026-02-02 | <details><summary>5 pag...</summary><p>5 pages, 2 figures, accepted at ICASSP 2026</p></details> |
@@ -206,21 +214,22 @@ labels: documentation
 | **[An XAI View on Explainable ASP: Methods, Systems, and Perspectives](https://arxiv.org/abs/2601.14764v1)** | 2026-01-21 | 10 pages |
 | **[Explaining Tournament Solutions with Minimal Supports](https://arxiv.org/abs/2509.09312v5)** | 2026-01-21 | <details><summary>This ...</summary><p>This paper is the extended version of Contet, Grandi, and Mengin. 2026. Explaining Tournament Solutions with Minimal Supports. In Proceedings of the 40th AAAI Conference on Artificial Intelligence</p></details> |
 | **[The Transparency Paradox in Explainable AI: A Theory of Autonomy Depletion Through Cognitive Load](https://arxiv.org/abs/2601.13973v1)** | 2026-01-20 | <details><summary>26 pa...</summary><p>26 pages, 4 figures, 5 tables. Submitted to Human Factors</p></details> |
-| **[Towards Visually Explaining Statistical Tests with Applications in Biomedical Imaging](https://arxiv.org/abs/2601.13899v1)** | 2026-01-20 |  |
 | **[SL-CBM: Enhancing Concept Bottleneck Models with Semantic Locality for Better Interpretability](https://arxiv.org/abs/2601.12804v1)** | 2026-01-19 |  |
 | **[An Optimized Decision Tree-Based Framework for Explainable IoT Anomaly Detection](https://arxiv.org/abs/2601.14305v1)** | 2026-01-18 | <details><summary>Acept...</summary><p>Acepted and Presented at IEEE 2nd International Conference on Computing, Applications and Systems (COMPAS 2025) , 23-24 October 2025, Kushtia, Bangladesh</p></details> |
 | **[DDSA: Dual-Domain Strategic Attack for Spatial-Temporal Efficiency in Adversarial Robustness Testing](https://arxiv.org/abs/2601.14302v1)** | 2026-01-18 | <details><summary>Prepr...</summary><p>Preprint accepted by ICASSP 2026 with minor revisions</p></details> |
 | **[Policy alone is probably not the solution: A large-scale experiment on how developers struggle to design meaningful end-user explanations](https://arxiv.org/abs/2503.15512v4)** | 2026-01-16 |  |
-| **[A Novel Approach to Explainable AI with Quantized Active Ingredients in Decision Making](https://arxiv.org/abs/2601.08733v1)** | 2026-01-13 | <details><summary>Accep...</summary><p>Accepted and published in IEEE 2025. This is the authors manuscript version; final version available at IEEE Xplore: https://ieeexplore.ieee.org/document/11318441</p></details> |
-| **[Attention Consistency Regularization for Interpretable Early-Exit Neural Networks](https://arxiv.org/abs/2601.08891v1)** | 2026-01-13 | 2 pages, 1 figure |
-| **[Explaning with trees: interpreting CNNs using hierarchies](https://arxiv.org/abs/2406.13257v2)** | 2026-01-13 |  |
-| **[An Explainable Two Stage Deep Learning Framework for Pericoronitis Assessment in Panoramic Radiographs Using YOLOv8 and ResNet-50](https://arxiv.org/abs/2601.08401v1)** | 2026-01-13 |  |
-| **[Regression-adjusted Monte Carlo Estimators for Shapley Values and Probabilistic Values](https://arxiv.org/abs/2506.11849v2)** | 2026-01-13 |  |
-| **[Perspectives in Play: A Multi-Perspective Approach for More Inclusive NLP Systems](https://arxiv.org/abs/2506.20209v2)** | 2026-01-12 |  |
 
 ## Mechanistic Interpretability
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DLM-Scope: Mechanistic Interpretability of Diffusion Language Models via Sparse Autoencoders](https://arxiv.org/abs/2602.05859v1)** | 2026-02-05 | 23 pages |
+| **[Split Personality Training: Revealing Latent Knowledge Through Alternate Personalities](https://arxiv.org/abs/2602.05532v1)** | 2026-02-05 |  |
+| **[Causal Front-Door Adjustment for Robust Jailbreak Attacks on LLMs](https://arxiv.org/abs/2602.05444v1)** | 2026-02-05 |  |
+| **[Advancing Opinion Dynamics Modeling with Neural Diffusion-Convection-Reaction Equation](https://arxiv.org/abs/2602.05403v1)** | 2026-02-05 |  |
+| **[Explanations are a Means to an End: Decision Theoretic Explanation Evaluation](https://arxiv.org/abs/2506.22740v2)** | 2026-02-04 |  |
+| **[Sparse Attention Post-Training for Mechanistic Interpretability](https://arxiv.org/abs/2512.05865v2)** | 2026-02-04 |  |
+| **[Disentangling meaning from language in LLM-based machine translation](https://arxiv.org/abs/2602.04613v1)** | 2026-02-04 | 61 pages, 70 figures |
+| **[Momentum Attention: The Physics of In-Context Learning and Spectral Forensics for Mechanistic Interpretability](https://arxiv.org/abs/2602.04902v1)** | 2026-02-03 | <details><summary>15 pa...</summary><p>15 pages, 5 figures, 299 pages total with supplementary material (21 appendices, 27 Jupyter notebooks with embedded results)</p></details> |
 | **[Grokking in LLM Pretraining? Monitor Memorization-to-Generalization without Test](https://arxiv.org/abs/2506.21551v4)** | 2026-02-03 | <details><summary>Accep...</summary><p>Accepted at ICLR 2026</p></details> |
 | **[Explaining the Explainer: Understanding the Inner Workings of Transformer-based Symbolic Regression Models](https://arxiv.org/abs/2602.03506v1)** | 2026-02-03 | 8 pages, 5 figures |
 | **[Understanding Verbatim Memorization in LLMs Through Circuit Discovery](https://arxiv.org/abs/2506.21588v2)** | 2026-02-03 | <details><summary>The F...</summary><p>The First Workshop on Large Language Model Memorization @ ACL 2025, Vienna, August 1st, 2025</p></details> |
@@ -261,10 +270,4 @@ labels: documentation
 | **[Interpreting Transformers Through Attention Head Intervention](https://arxiv.org/abs/2601.04398v3)** | 2026-01-12 | updated abstract |
 | **[Time Travel Engine: A Shared Latent Chronological Manifold Enables Historical Navigation in Large Language Models](https://arxiv.org/abs/2601.06437v1)** | 2026-01-10 |  |
 | **[Central Dogma Transformer: Towards Mechanism-Oriented AI for Cellular Understanding](https://arxiv.org/abs/2601.01089v2)** | 2026-01-10 | <details><summary>v2: F...</summary><p>v2: Fixed dropout probability in Table 3 (0.1 -> 0.3); added acknowledgement</p></details> |
-| **[Circuit Mechanisms for Spatial Relation Generation in Diffusion Transformers](https://arxiv.org/abs/2601.06338v1)** | 2026-01-09 | 31 pages, 23 figures |
-| **[Mechanistic Indicators of Understanding in Large Language Models](https://arxiv.org/abs/2507.08017v4)** | 2026-01-08 | 38 pages |
-| **[When the Coffee Feature Activates on Coffins: An Analysis of Feature Extraction and Steering for Mechanistic Interpretability](https://arxiv.org/abs/2601.03047v1)** | 2026-01-06 | <details><summary>33 pa...</summary><p>33 pages (65 with appendix), 1 figure</p></details> |
-| **[Mechanistic Interpretability of Large-Scale Counting in LLMs through a System-2 Strategy](https://arxiv.org/abs/2601.02989v1)** | 2026-01-06 |  |
-| **[Mechanistic Knobs in LLMs: Retrieving and Steering High-Order Semantic Features via Sparse Autoencoders](https://arxiv.org/abs/2601.02978v1)** | 2026-01-06 |  |
-| **[Bridging Mechanistic Interpretability and Prompt Engineering with Gradient Ascent for Interpretable Persona Control](https://arxiv.org/abs/2601.02896v1)** | 2026-01-06 |  |
 
