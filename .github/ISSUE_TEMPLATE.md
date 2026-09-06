@@ -1,5 +1,5 @@
 ---
-title: Latest 50 Papers - September 04, 2026
+title: Latest 50 Papers - September 07, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/NeoFii/Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,12 @@ labels: documentation
 ## LLM Reasoning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Skill-Conditioned Gated Self-Distillation for LLM Reasoning](https://arxiv.org/abs/2605.28791v4)** | 2026-09-03 | <details><summary>Accep...</summary><p>Accepted by EMNLP 2026 Findings. Code is available at https://github.com/walawalagoose/SGSD</p></details> |
+| **[GrowPage: On-Demand KV Budgeting for Efficient LLM Reasoning Serving](https://arxiv.org/abs/2609.03494v1)** | 2026-09-03 |  |
+| **[It's the Problem, Not the Path: Budget and Difficulty Confounds in LLM Reasoning Trajectories](https://arxiv.org/abs/2609.03436v1)** | 2026-09-03 | <details><summary>25 pa...</summary><p>25 pages, 11 figures, 4 tables. Also available at doi:10.5281/zenodo.22261107. Code and pre-registered protocols: https://github.com/bulutyigit/problem-not-path</p></details> |
+| **[Gradients Know What Outcomes Don't: Unlocking Reinforcement Learning for LLM Reasoning with Gradient-Aligned Rewards](https://arxiv.org/abs/2609.03342v1)** | 2026-09-03 |  |
+| **[MeEvo: Metacognitive Evolution Combined with Natural Evolution for Automatic Heuristic Design](https://arxiv.org/abs/2606.14202v5)** | 2026-09-03 |  |
+| **[Auditing Multi-Agent LLM Reasoning Trees Outperforms Majority Vote and LLM-as-Judge](https://arxiv.org/abs/2602.09341v2)** | 2026-09-03 |  |
 | **[OSDAG: Online Scheduling for Efficient Multi-Robot Collaboration](https://arxiv.org/abs/2606.15255v2)** | 2026-09-02 |  |
 | **[Measuring Reasoning Quality in LLMs: A Multi-Dimensional Behavioral Framework](https://arxiv.org/abs/2605.24661v4)** | 2026-09-02 |  |
 | **[The Importance of Being Statistically Earnest: A Critical Re-evaluation of GSM-Symbolic](https://arxiv.org/abs/2605.28700v3)** | 2026-09-01 | <details><summary>41 pa...</summary><p>41 pages, 11 figures, 23 tables. Accepted to EMNLP 2026 (main conference), track: Resources and Evaluation</p></details> |
@@ -23,7 +29,6 @@ labels: documentation
 | **[Beyond Surface Forms: Symbolic Edits as a Test for Logical Reasoning with LLMs](https://arxiv.org/abs/2608.30256v1)** | 2026-08-31 | <details><summary>Accep...</summary><p>Accepted to Findings of EMNLP 2026</p></details> |
 | **[LLMs versus the Halting Problem: Characterizing Program Termination Reasoning](https://arxiv.org/abs/2601.18987v7)** | 2026-08-31 | long paper |
 | **[AutoCRAT: Within-trajectory Joint Control of Stochasticity and Compute for LLM Reasoning](https://arxiv.org/abs/2608.29988v1)** | 2026-08-30 | EMNLP 2026 Findings |
-| **[Skill-Conditioned Gated Self-Distillation for LLM Reasoning](https://arxiv.org/abs/2605.28791v3)** | 2026-08-30 | <details><summary>Accep...</summary><p>Accepted by EMNLP 2026 Findings. Code is available at https://github.com/walawalagoose/SGSD</p></details> |
 | **[Agentic Chain-of-Thought Steering for Efficient and Controllable LLM Reasoning](https://arxiv.org/abs/2606.03965v2)** | 2026-08-30 | EMNLP 2026 Findings |
 | **[StructSynth: Dependency Graphs as Generation Plans for Low-Data Tabular Synthesis with Language Models](https://arxiv.org/abs/2508.02601v2)** | 2026-08-29 | <details><summary>EMNLP...</summary><p>EMNLP 2026 (Main Conference)</p></details> |
 | **[Scale-Plan: Scalable Language-Enabled Task Planning for Heterogeneous Multi-Robot Teams](https://arxiv.org/abs/2603.08814v2)** | 2026-08-28 |  |
@@ -51,19 +56,22 @@ labels: documentation
 | **[EMRB: A Multi-Level Benchmark for Evaluating LLM Reasoning over Raw Electromagnetic Signals](https://arxiv.org/abs/2608.24086v1)** | 2026-08-25 |  |
 | **[OmicSync: Reliability-Aware Spatial Multi-Omics Clustering with Evidence-Constrained LLM Reasoning](https://arxiv.org/abs/2608.22785v2)** | 2026-08-25 |  |
 | **[When Should a Robot Think? Resource-Aware Reasoning via Reinforcement Learning for Embodied Robotic Decision-Making](https://arxiv.org/abs/2603.16673v5)** | 2026-08-24 |  |
-| **[Mitigating Reasoning-Induced Misalignment via Safety-Direction Penalty](https://arxiv.org/abs/2608.23497v1)** | 2026-08-24 | 28 pages, 4 figures |
-| **[Benchmarking Retrieval-Augmented Generation Strategies for Large Language Model-Based Travel Mode Choice Prediction](https://arxiv.org/abs/2508.17527v2)** | 2026-08-24 |  |
-| **[Improving O-RADS Risk Stratification from Ultrasound Reports: A Comparative Evaluation of Hybrid versus End-to-End LLM Reasoning Strategies](https://arxiv.org/abs/2608.23061v1)** | 2026-08-24 | <details><summary>Main ...</summary><p>Main manuscript: 20 pages, 5 figures, and 2 tables; supplemental material: 11 pages, 1 figure, and 3 tables</p></details> |
-| **[Beyond Verdicts: A Graph-Based Analysis of Human and LLM Reasoning in Scientific Fact-Checking](https://arxiv.org/abs/2608.23047v1)** | 2026-08-24 |  |
-| **[From Diagnosis to Redesign: Using Quantitative Ethnography to Improve Multi-Agent LLM Reasoning](https://arxiv.org/abs/2608.22566v1)** | 2026-08-23 | <details><summary>Accep...</summary><p>Accepted at ICQE 2026 (to appear in Springer CCIS)</p></details> |
 
 ## Chain of Thought
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Legibility is Not Interpretability: Comparing Judged and Actual Importance in Chain-Of-Thought Reasoning](https://arxiv.org/abs/2609.04194v1)** | 2026-09-03 | <details><summary>Publi...</summary><p>Published at COLM 2026</p></details> |
+| **[</think> Doesn't Stop Reasoning: Analysis of Spurious CoT Termination](https://arxiv.org/abs/2609.03633v1)** | 2026-09-03 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 Main Conference</p></details> |
+| **[Gaokerena: A Small Persian Medical Language Model Family](https://arxiv.org/abs/2608.00932v2)** | 2026-09-03 | 29 pages, 9 figures |
+| **[Random Attention: Rethinking KV Cache Eviction for Efficient Reasoning](https://arxiv.org/abs/2609.03430v1)** | 2026-09-03 |  |
+| **[Gradients Know What Outcomes Don't: Unlocking Reinforcement Learning for LLM Reasoning with Gradient-Aligned Rewards](https://arxiv.org/abs/2609.03342v1)** | 2026-09-03 |  |
+| **[Measuring Harmfulness of Computer-Using Agents](https://arxiv.org/abs/2508.00935v3)** | 2026-09-03 | <details><summary>17 pa...</summary><p>17 pages, 9 figures. Code: https://github.com/db-ol/CUAHarm Dataset: https://huggingface.co/datasets/CUAHarm/CUAHarm</p></details> |
+| **[Large Language Model-Driven Context-Aware Eco-Feedback Generation and Evaluation](https://arxiv.org/abs/2609.02719v2)** | 2026-09-03 | <details><summary>41 pa...</summary><p>41 pages, 12 figures, 12 tables. Accepted manuscript. The peer-reviewed and published version appears in Energy and Buildings 370 (2026) 118038</p></details> |
+| **[When Chain-of-Thought Fails, the Solution Hides in the Hidden States](https://arxiv.org/abs/2604.23351v3)** | 2026-09-02 | <details><summary>To ap...</summary><p>To appear in Findings of EMNLP 2026</p></details> |
+| **[The Gradient Does Not See Rank: Rank-Indifference in Matrix-CODI on ProsQA](https://arxiv.org/abs/2609.03090v1)** | 2026-09-02 | <details><summary>Accep...</summary><p>Accepted at the ICML 2026 Mechanistic Interpretability Workshop, https://openreview.net/forum?id=Spof4PusVI. 9 pages. Corrects a data-entry error in the workshop version: the seed-1337 accuracy in the three-seed replication was reported as 80.47% (a control run); the archived value is 78.91%, so the three-seed mean is 81.0 +/- 2.0pp (was 81.5 +/- 1.2pp). All other results are unchanged</p></details> |
 | **[The Implications of Linguistic Illegibility for LLM Security](https://arxiv.org/abs/2609.02852v1)** | 2026-09-02 |  |
 | **[On the Expressive Power and Limitations of Multi-Layer SSMs](https://arxiv.org/abs/2604.14501v2)** | 2026-09-02 | 28 pages, 6 theorems |
 | **[Language Models Can Control Their Own Attention](https://arxiv.org/abs/2609.02737v1)** | 2026-09-02 |  |
-| **[Large Language Model-Driven Context-Aware Eco-Feedback Generation and Evaluation](https://arxiv.org/abs/2609.02719v1)** | 2026-09-02 | <details><summary>37 pa...</summary><p>37 pages, 12 figures, 12 tables. Author's original submitted manuscript (pre-peer-review). The peer-reviewed and published version appears in Energy and Buildings 370 (2026) 118038</p></details> |
 | **[Competitive Market Behavior of LLMs](https://arxiv.org/abs/2609.02580v1)** | 2026-09-02 |  |
 | **[REAP: Relation-Aware Elicitation and Parsing for Closed-Book Knowledge Base Construction from LLMs](https://arxiv.org/abs/2608.10963v2)** | 2026-09-02 | <details><summary>Accep...</summary><p>Accepted to AKBC Shared Task at EMNLP 2026</p></details> |
 | **[The Diagnosis a Reporter Leaves Unspoken: Surfacing Frozen Tumor Features for Brain-Tumor MRI Reporting](https://arxiv.org/abs/2609.02411v1)** | 2026-09-02 | <details><summary>10 pa...</summary><p>10 pages, 2 figures, 3 tables. Accepted at MLCN 2026, a workshop held in conjunction with MICCAI 2026; to appear in Springer LNCS</p></details> |
@@ -102,18 +110,11 @@ labels: documentation
 | **[Reasoning Beyond Language: A Comprehensive Survey on Latent Chain-of-Thought Reasoning](https://arxiv.org/abs/2505.16782v3)** | 2026-08-31 | EMNLP 2026 Findings |
 | **[Beyond Polarization: The Generative Constraint of Chain-of-Thought in Pointwise Reranking](https://arxiv.org/abs/2608.30398v1)** | 2026-08-31 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2026 Findings</p></details> |
 | **[When LLM Meets Tree Search: A Systematic View of Inference as Search in Large Language Models](https://arxiv.org/abs/2608.30395v1)** | 2026-08-31 | <details><summary>Accep...</summary><p>Accepted by EMNLP'2026</p></details> |
-| **[Quantifying and Mitigating Korean Jamo-Level Typographical Vulnerabilities in Large Language Models](https://arxiv.org/abs/2608.30229v1)** | 2026-08-31 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 (Main Conference)</p></details> |
-| **[Unified-MAS: Universally Generating Domain-Specific Nodes for Empowering Automatic Multi-Agent Systems](https://arxiv.org/abs/2603.21475v2)** | 2026-08-31 | <details><summary>Code ...</summary><p>Code is available at https://github.com/linhh29/Unified-MAS</p></details> |
-| **[Latency-Response Theory Model: Evaluating Large Language Models via Response Accuracy and Chain-of-Thought Length](https://arxiv.org/abs/2512.07019v4)** | 2026-08-31 |  |
-| **[PA3: Policy-Aware Agent Alignment through Chain-of-Thought](https://arxiv.org/abs/2603.14602v3)** | 2026-08-31 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 (main)</p></details> |
-| **[Triggering Chain-of-Thought via Latent Feature Interventions in Large Language Models](https://arxiv.org/abs/2601.08058v2)** | 2026-08-31 | <details><summary>Accep...</summary><p>Accepted at EMNLP' 2026 Main Conference</p></details> |
-| **[Learning Composable Chains-of-Thought](https://arxiv.org/abs/2505.22635v2)** | 2026-08-30 | EMNLP 2026 Findings |
-| **[Detecting Hidden Chain-of-Thought in Large Language Models with Linguistic, Behavioral, and Mechanistic Indicators](https://arxiv.org/abs/2608.29956v1)** | 2026-08-30 |  |
-| **[Attention Amnesia in Hybrid LLMs: When CoT Fine-Tuning Breaks Long-Range Recall, and How to Fix It](https://arxiv.org/abs/2606.11052v2)** | 2026-08-30 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 (Main)</p></details> |
 
 ## LLM Interpretability
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SelfDR: Self-Distillation from Reasoning for LLM-Based Recommendation](https://arxiv.org/abs/2609.03313v1)** | 2026-09-03 | <details><summary>12 pa...</summary><p>12 pages, 5 figures, CIKM'26</p></details> |
 | **[LLMs Interpret, Embeddings Organize, Graphs Emerge: Agent-Driven Compilation of Scientific Knowledge](https://arxiv.org/abs/2608.29612v1)** | 2026-08-30 | <details><summary>15 (m...</summary><p>15 (main text) + 6 (SM) pages, 4 + 1 figures</p></details> |
 | **[Would this change your answer? Evaluating Explanations of LLM Behavior In The Wild with Counterfactual Experiments](https://arxiv.org/abs/2608.16747v1)** | 2026-08-17 |  |
 | **[From Interpretation to Compilation: A Compilation-Based Execution Engine for Semantic Operator Systems](https://arxiv.org/abs/2608.06677v1)** | 2026-08-07 |  |
@@ -163,7 +164,6 @@ labels: documentation
 | **[Word Synchronization Challenge: A Benchmark for Word Association Responses for Large Language Models](https://arxiv.org/abs/2502.08312v2)** | 2026-01-14 |  |
 | **[Can LLMs interpret figurative language as humans do?: surface-level vs representational similarity](https://arxiv.org/abs/2601.09041v1)** | 2026-01-14 | 17 pages, 5 figures |
 | **[Neuro-Symbolic Compliance: Integrating LLMs and SMT Solvers for Automated Financial Legal Analysis](https://arxiv.org/abs/2601.06181v1)** | 2026-01-07 | <details><summary>10 pa...</summary><p>10 pages, 6 tables, 3 figures, accepted by the 2nd ACM AIware Conference</p></details> |
-| **[LLM Interpretability with Identifiable Temporal-Instantaneous Representation](https://arxiv.org/abs/2509.23323v2)** | 2026-01-02 | NeurIPS 2025 |
 
 ## Explainable AI
 | **Title** | **Date** | **Comment** |
@@ -218,6 +218,11 @@ labels: documentation
 ## Mechanistic Interpretability
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Circuit for Plural Reference: How LLMs Represent and Retrieve Singular and Plural Entities](https://arxiv.org/abs/2609.03687v1)** | 2026-09-03 |  |
+| **[Lost in Reordering: Structural Sensitivity of Multilingual LLMs under Semantics-Preserving Perturbations](https://arxiv.org/abs/2609.03511v1)** | 2026-09-03 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2026 (Findings - Long paper)</p></details> |
+| **[Large Language Models in Resolving Contextual Knowledge Conflicts](https://arxiv.org/abs/2609.03148v1)** | 2026-09-02 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026</p></details> |
+| **[How Much Do Circuits Tell Us? Measuring the Consistency and Specificity of Language Model Circuits](https://arxiv.org/abs/2605.08348v2)** | 2026-09-02 |  |
+| **[ObserverBench: Testing Mechanistic Estimates for Intervention and Control](https://arxiv.org/abs/2609.03026v1)** | 2026-09-02 | <details><summary>28 pa...</summary><p>28 pages, 4 figures. Code, benchmark, leaderboards, and submission interface: https://kwisatzh.github.io/observerbench/. Frozen artifact release: https://doi.org/10.5281/zenodo.22136091</p></details> |
 | **[Can Language Model Agents be Helpful Circuit Explainers in Mechanistic Interpretability?](https://arxiv.org/abs/2606.24026v2)** | 2026-09-02 | <details><summary>Accep...</summary><p>Accepted to Findings of EMNLP 2026</p></details> |
 | **[Interpretable Symptom Vectors for Depression in a Large Language Model](https://arxiv.org/abs/2609.01832v1)** | 2026-09-01 | 26 pages, 6 figures |
 | **[RACE: Scalable Statistical Estimation of Functional Consistency in LLM Neurons](https://arxiv.org/abs/2608.24758v2)** | 2026-09-01 | <details><summary>EMNLP...</summary><p>EMNLP-26 Main Conference</p></details> |
@@ -262,9 +267,4 @@ labels: documentation
 | **[Explanation Multiplicity: Circuit-Level Interpretability Evidence Does Not Survive Defensible Analytic Variation](https://arxiv.org/abs/2608.13754v1)** | 2026-08-13 | <details><summary>12 pa...</summary><p>12 pages, 1 figure, 7 tables. Pre-registered analysis plan; code and results available</p></details> |
 | **[Decoding Task Progress from VLA Representations](https://arxiv.org/abs/2608.13474v1)** | 2026-08-13 |  |
 | **[Do LLMs Know Their Vulnerable Scenarios?](https://arxiv.org/abs/2607.23496v2)** | 2026-08-13 | <details><summary>19 pa...</summary><p>19 pages, 11 Figures, Under Review</p></details> |
-| **[Perturbation-based Regional Interpretability through Subtraction Mapping (PRISM): naming-error dissociations in language models and post-stroke aphasia](https://arxiv.org/abs/2608.12717v1)** | 2026-08-13 | <details><summary>49 pa...</summary><p>49 pages, 6 figures, 1 table. Supplementary methods, 6 tables and 5 figures included</p></details> |
-| **[Explainability in Practice: A Survey of Explainable NLP Across Various Domains](https://arxiv.org/abs/2502.00837v3)** | 2026-08-12 | <details><summary>32 pa...</summary><p>32 pages, 5 figures, 15 tables, 257 references. Under review at the Journal of Information Science. Supplementary materials and structured data: https://github.com/mohammadi-hadi/xnlp-survey</p></details> |
-| **[Superposition Without Interference? Towards Isolated Interventions via Almost Orthogonal Features in Language Models](https://arxiv.org/abs/2602.04718v5)** | 2026-08-12 | <details><summary>Publi...</summary><p>Published as a conference paper at the Conference on Language Modeling (COLM) 2026</p></details> |
-| **[From Interpretability to Control: Insights from Six Years of the TrustNLP Workshop](https://arxiv.org/abs/2608.11171v1)** | 2026-08-11 | <details><summary>17 pa...</summary><p>17 pages, 2 figures, 3 tables. Submitted to ACL ARR August 2026 cycle (EACL 2027)</p></details> |
-| **[Putting a Face to Forgetting: Continual Learning meets Mechanistic Interpretability](https://arxiv.org/abs/2601.22012v3)** | 2026-08-11 | <details><summary>To ap...</summary><p>To appear in the Proceedings of the Fifth Conference on Lifelong Learning Agents (CoLLAs), 2026</p></details> |
 
