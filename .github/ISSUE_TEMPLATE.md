@@ -1,5 +1,5 @@
 ---
-title: Latest 50 Papers - September 21, 2026
+title: Latest 50 Papers - September 22, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/NeoFii/Daily_ArXiv) page for a better reading experience and more papers.**
@@ -61,6 +61,15 @@ labels: documentation
 ## Chain of Thought
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[On the Limitations of Large Language Models for Conceptual Database Modeling](https://arxiv.org/abs/2605.11986v2)** | 2026-09-18 |  |
+| **[How a Cooperative-Override Circuit Suppresses Nash Play in Large Language Models](https://arxiv.org/abs/2604.27167v3)** | 2026-09-18 | <details><summary>v3: m...</summary><p>v3: major revision. Title changed (previously "What Suppresses Nash Equilibrium Play in Large Language Models? Mechanistic Evidence and Causal Control"). Main text rewritten at 12 pages; mechanistic campaign re-run under a seeded, hash-verified protocol; new 48-game payoff-random experiment; several earlier-version claims corrected, with all protocol changes documented in Appendix H</p></details> |
+| **[LiteMedCoT-VL: Parameter-Efficient Adaptation for Medical Visual Question Answering](https://arxiv.org/abs/2605.09384v2)** | 2026-09-18 | <details><summary>Accep...</summary><p>Accepted at NLPCC 2026 (The 15th CCF International Conference on Natural Language Processing and Chinese Computing), Springer proceedings. 17 pages, 5 figures</p></details> |
+| **[GUARD: Natural Forgetting in Large Reasoning Models via Guided Answer-Reasoning Distillation](https://arxiv.org/abs/2609.21677v1)** | 2026-09-18 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 main conference</p></details> |
+| **[DRT: Dense Reasoning Trace for Efficient and Grounded Multimodal Reasoning](https://arxiv.org/abs/2609.21675v1)** | 2026-09-18 |  |
+| **[When Steering Fails in Latent Reasoning: A Latent-to-Language Transition Gap](https://arxiv.org/abs/2609.21662v1)** | 2026-09-18 |  |
+| **[MIRAGE: Multi-Perspective Creative Language Model Reasoning with Reinforcement Learning Guidance](https://arxiv.org/abs/2609.21554v1)** | 2026-09-18 | <details><summary>18 pa...</summary><p>18 pages, 5 figures. Accepted at the ICML 2025 Workshop on Multi-Agent Systems in the Era of Foundation Models: Opportunities, Challenges and Futures (MAS-2025)</p></details> |
+| **[The Communication Bottleneck: A Round-Trip Study of Tree-Structured Expression Serialization in Language Models](https://arxiv.org/abs/2609.21509v1)** | 2026-09-18 |  |
+| **[LogicTrack: Auditing Reasoning Trajectories of Large Language Models with Formal Logic Solvers](https://arxiv.org/abs/2609.21492v1)** | 2026-09-18 |  |
 | **[SAFARI: An Industrial Benchmark for LLM-Assisted Hazard Analysis and Risk Assessment](https://arxiv.org/abs/2609.20584v1)** | 2026-09-17 | <details><summary>Accep...</summary><p>Accepted at EMNLP 2026 Industry Track</p></details> |
 | **[LaSR: Context-Aware Speech Recognition via Latent Reasoning](https://arxiv.org/abs/2606.00507v2)** | 2026-09-17 |  |
 | **[AnyAudio-Judge: A Dynamic Rubric-Based Benchmark and Evaluator for Audio Instruction Following](https://arxiv.org/abs/2606.03116v2)** | 2026-09-17 | EMNLP 2026 |
@@ -102,15 +111,6 @@ labels: documentation
 | **[CoTAL: Human-in-the-Loop Prompt Engineering for Generalizable Formative Assessment Scoring and Feedback](https://arxiv.org/abs/2504.02323v5)** | 2026-09-12 |  |
 | **[Exploring Automated Vulnerability Identification in JavaScript Code Using Large Language Models](https://arxiv.org/abs/2609.13816v1)** | 2026-09-12 | <details><summary>8 pag...</summary><p>8 pages, 1 figure, 4 tables</p></details> |
 | **[Bypass Observation: A Conceptual Design of a Non-Intrusive Layer-Wise Semantic Extraction Architecture](https://arxiv.org/abs/2609.13807v1)** | 2026-09-12 | <details><summary>14 pa...</summary><p>14 pages, 1 figure, 2 tables</p></details> |
-| **[How Many Thoughts Can a Vector Hold? The Capacity of Reasoning by Superposition](https://arxiv.org/abs/2609.13747v1)** | 2026-09-12 | 20 pages,4 figures |
-| **[Identifying Crucial Attention Heads for Multilingual Language Models: Retrieval and Retrieval-Transition Heads](https://arxiv.org/abs/2602.22453v4)** | 2026-09-11 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 Findings</p></details> |
-| **[Reason Through the Latent! Making Latent Visual Reasoning Necessary](https://arxiv.org/abs/2609.06746v3)** | 2026-09-11 |  |
-| **[Reproducing and Evaluating the Generalizability of Subliminal Learning in Open-Weight Models](https://arxiv.org/abs/2609.12586v1)** | 2026-09-11 | <details><summary>Accep...</summary><p>Accepted at BlackBoxNLP@EMNLP'26 (The 9th BlackboxNLP Workshop Special Track: Reproducibility and Reliability in Interpretability Analyses)</p></details> |
-| **[A False Average: Pooled CoT-Monitor Accuracy Conceals a Reasoning-Dependent Fragility](https://arxiv.org/abs/2608.00583v3)** | 2026-09-11 | <details><summary>v2: r...</summary><p>v2: rewritten live-agent study across three frontier agents; corrected title</p></details> |
-| **[RetroThinker: Enabling Retrospective Thinking in Speech LLMs](https://arxiv.org/abs/2609.11864v1)** | 2026-09-10 | <details><summary>Accep...</summary><p>Accepted to IEEE SLT 2026</p></details> |
-| **[Assessing Language Models for Salient Class Identification](https://arxiv.org/abs/2606.21629v2)** | 2026-09-10 | <details><summary>14 pa...</summary><p>14 pages, 1 images, 8 tables, Manuscript submitted to a Journal (2026)</p></details> |
-| **[SIRF: A Spec-Internalized Risk Foundation Model for Industrial Content Risk Control](https://arxiv.org/abs/2609.11752v1)** | 2026-09-10 | <details><summary>14 pa...</summary><p>14 pages, 12 figures. Accepted at the Industry Track of EMNLP 2026</p></details> |
-| **[LLM-Ideoplasticity: Measuring Ideological Plasticity in the Political Behavior of LLMs as a Context-Conditioned Distribution](https://arxiv.org/abs/2606.28335v3)** | 2026-09-10 | <details><summary>Accep...</summary><p>Accepted in Proceedings of the 15th International Joint Conference on Natural Language Processing and the 5th Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics (IJCNLP-AACL 2026), 43 pages, 18 figures, 17 tables</p></details> |
 
 ## LLM Interpretability
 | **Title** | **Date** | **Comment** |
@@ -168,6 +168,7 @@ labels: documentation
 ## Explainable AI
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Rhamba: Region-Aware Hybrid Attention-Mamba Framework for Self-Supervised Learning in Resting-State fMRI](https://arxiv.org/abs/2605.01240v3)** | 2026-09-18 | <details><summary>Accep...</summary><p>Accepted for publication in Computers in Biology and Medicine</p></details> |
 | **[A Lightweight CNN Integrated Compact Convolutional Transformer for Multi-Scale Feature Learning and reducing computational complexity for breast cancer mammography image detection and classification](https://arxiv.org/abs/2609.18212v1)** | 2026-09-16 |  |
 | **[Regional Explanations via Causal Sufficiency and Necessity](https://arxiv.org/abs/2609.18049v1)** | 2026-09-16 |  |
 | **[Data storytelling meets interpretable machine learning: Decoding AI decisions for non-experts without revealing sensitive data and model details](https://arxiv.org/abs/2609.15722v1)** | 2026-09-14 |  |
@@ -214,12 +215,11 @@ labels: documentation
 | **[Reconciling Consistency-Based Diagnosis with Actual-Causality-Based Explanations](https://arxiv.org/abs/2605.08688v2)** | 2026-08-22 | <details><summary>Sever...</summary><p>Several typos fixed, and remarks added. To appear in Proc. of The 17th International Conference on Scalable Uncertainty Management (SUM'26), Springer LNCS, 2026</p></details> |
 | **[Invisible Agents, Uninformed Patients: Towards Responsible Deployment Of Autonomous AI Diagnostic Agents In Sub-Saharan Africa](https://arxiv.org/abs/2608.21326v1)** | 2026-08-21 | 10 pages, 4 figures |
 | **[Software Frameworks for Explainable AI in Time Series Classification: A Systematic Review](https://arxiv.org/abs/2608.21449v1)** | 2026-08-19 | <details><summary>17 pa...</summary><p>17 pages, 5 figures, to be published in ECML PKDD 2026, XKDD and Beyond Workshop, LNCS</p></details> |
-| **[Can Large Language Models Explain Flight Safety Events? A Prior-Guided Semantic LLM-based Approach](https://arxiv.org/abs/2608.18017v1)** | 2026-08-18 | <details><summary>14 pa...</summary><p>14 pages, 6 figures, submitted to IEEE Transactions on Intelligent Transportation Systems</p></details> |
-| **[Predicting Male Domestic Violence Using Explainable Ensemble Learning and Exploratory Data Analysis](https://arxiv.org/abs/2403.15594v4)** | 2026-08-18 |  |
 
 ## Mechanistic Interpretability
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Exemplar Partitioning for Mechanistic Interpretability](https://arxiv.org/abs/2605.14347v3)** | 2026-09-17 | <details><summary>Code:...</summary><p>Code: https://github.com/jessicarumbelow/exemplar-partitioning. Pretrained dictionaries: https://huggingface.co/datasets/J-RUM/exemplar-partitioning</p></details> |
 | **[Reproducing Transparent and Scrutable Recommendations: Exploring Open-Weight Models via Natural-Language User Profiles](https://arxiv.org/abs/2609.19831v1)** | 2026-09-17 | <details><summary>Accep...</summary><p>Accepted at BlackBoxNLP@EMNLP'26 (The 9th BlackboxNLP Workshop Special Track: Reproducibility and Reliability in Interpretability Analyses)</p></details> |
 | **[A Four-Stage Decomposition of Word-Problem Solving and Mechanistic Fragility in LLM Math Reasoning](https://arxiv.org/abs/2609.17804v1)** | 2026-09-15 |  |
 | **[Tensorization is a powerful but underexplored tool for compression and interpretability of neural networks](https://arxiv.org/abs/2505.20132v2)** | 2026-09-14 | <details><summary>This ...</summary><p>This article has been prepared for submission as a "Position paper" following the guidelines provided at https://neurips.cc/Conferences/2025/CallForPositionPapers</p></details> |
@@ -268,5 +268,4 @@ labels: documentation
 | **[Mechanistic Circuit Identification for Controllable Data Generation](https://arxiv.org/abs/2608.24065v1)** | 2026-08-25 | 21 pages, 8 figures |
 | **[Bridging Linguistic Structure and Mechanistic Interpretability for Conceptual Interpretation in Language Models](https://arxiv.org/abs/2408.11827v2)** | 2026-08-24 | 20 pages, 17 figures |
 | **[Grounding Isn't Knowing: Do VLMs Need Object Localization for Spatial Reasoning?](https://arxiv.org/abs/2608.23074v1)** | 2026-08-24 |  |
-| **[What AstroPT knows about galaxies, and what that can teach us about LLMs](https://arxiv.org/abs/2608.22614v1)** | 2026-08-23 | <details><summary>13 pa...</summary><p>13 pages, 12 figures, code at https://github.com/Smith42/astroPT, accepted at Sci-FM@COLM 2026</p></details> |
 
