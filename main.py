@@ -22,7 +22,16 @@ with open("README.md", "r") as f:
     # if last_update_date == current_date:
         # sys.exit("Already updated today!")
 
-keywords = ["LLM Reasoning", "Chain of Thought", "LLM Interpretability", "Explainable AI", "Mechanistic Interpretability"] # TODO add more keywords
+keywords = [
+    "LLM Reasoning",
+    "Chain of Thought",
+    "LLM Interpretability",
+    "Explainable AI",
+    "Mechanistic Interpretability",
+    "Skill",
+    "RSI",
+    "Evolve",
+]
 
 max_result = 50 # maximum query results from arXiv API for each keyword
 readme_result = 20 # maximum papers to be included in the README
