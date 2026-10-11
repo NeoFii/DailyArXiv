@@ -24,18 +24,15 @@ with open("README.md", "r") as f:
 
 keywords = [
     "LLM Reasoning",
-    "Chain of Thought",
-    "LLM Interpretability",
-    "Explainable AI",
-    "Mechanistic Interpretability",
     "Skill",
     "RSI",
     "Evolve",
+    "Agent",
 ]
 
 max_result = 50 # maximum query results from arXiv API for each keyword
-readme_result = 20 # maximum papers to be included in the README
-issues_result = max_result # Issue shows all papers fetched from arXiv
+readme_result = 10 # maximum papers per keyword in the README
+issues_result = readme_result # maximum papers per keyword in the Issue
 
 # all columns: Title, Authors, Abstract, Link, Tags, Comment, Date
 # fixed_columns = ["Title", "Link", "Date"]
@@ -52,7 +49,7 @@ f_rm.write("The project automatically fetches the latest papers from arXiv based
 # write to ISSUE_TEMPLATE.md
 f_is = open(".github/ISSUE_TEMPLATE.md", "w") # file for ISSUE_TEMPLATE.md
 f_is.write("---\n")
-f_is.write("title: Latest {0} Papers - {1}\n".format(issues_result, get_daily_date()))
+f_is.write("title: Latest {0} Papers - {1}\n".format(issues_result * len(keywords), get_daily_date()))
 f_is.write("labels: documentation\n")
 f_is.write("---\n")
 f_is.write("**Please check the [Github](https://github.com/NeoFii/Daily_ArXiv) page for a better reading experience and more papers.**\n\n")
