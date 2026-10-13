@@ -1,5 +1,5 @@
 ---
-title: Latest 50 Papers - October 13, 2026
+title: Latest 50 Papers - October 14, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/NeoFii/Daily_ArXiv) page for a better reading experience and more papers.**
