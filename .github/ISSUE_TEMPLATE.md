@@ -1,5 +1,5 @@
 ---
-title: Latest 50 Papers - October 22, 2026
+title: Latest 50 Papers - October 23, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/NeoFii/Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,30 +7,30 @@ labels: documentation
 ## LLM Reasoning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[HiddenLens: A Multi-Layer LLM Framework for Detecting and Resolving Hidden Assumptions in Software Requirements](https://arxiv.org/abs/2610.29996v1)** | 2026-10-21 | <details><summary>24 pa...</summary><p>24 pages, 14 figures, 10 tables</p></details> |
+| **[Neither Stochastic Parroting nor AGI: LLMs Solve Tasks through Context-Directed Extrapolation from Training Data Priors](https://arxiv.org/abs/2505.23323v3)** | 2026-10-21 | <details><summary>14 pa...</summary><p>14 pages, 1 figure (including appendix)</p></details> |
+| **[A rubric landscape for evaluating clinical reasoning in large language models: what exists, what is missing, and what needs to be combined](https://arxiv.org/abs/2610.01938v2)** | 2026-10-21 | <details><summary>13 pa...</summary><p>13 pages, 1 table. Structured narrative review</p></details> |
+| **[OMAR: Open-World Multi-Attribute Reasoning for Scene-Conditioned Shelf Organization](https://arxiv.org/abs/2610.29761v1)** | 2026-10-21 |  |
+| **[MARS: Multi-hop Adaptive Retrieval and SPARQL Generation for KGQA](https://arxiv.org/abs/2607.14561v3)** | 2026-10-21 | <details><summary>EKAW ...</summary><p>EKAW 2026 (https://ekaw2026.di.unito.it/accepted-contributions/papers)</p></details> |
+| **[When Form Changes but Logic Doesn't: Building Logic-invariant LLMs through Logical Structure](https://arxiv.org/abs/2610.25402v2)** | 2026-10-21 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026, 24 Pages</p></details> |
+| **[ReAPO: Retry-Aware Policy Optimization for Efficient Exploration in LLM Reasoning](https://arxiv.org/abs/2610.28770v1)** | 2026-10-20 |  |
 | **[Semantic Observability for Autonomous Systems Diagnostics](https://arxiv.org/abs/2610.28611v1)** | 2026-10-20 | <details><summary>8 pag...</summary><p>8 pages, 3 figures. Foundational architecture paper; companion evaluation paper forthcoming</p></details> |
 | **[Temporal Evidence-Parameter Co-Alignment for LLM Reasoning over Temporal Knowledge Graphs](https://arxiv.org/abs/2610.28176v1)** | 2026-10-20 |  |
 | **[When Can LLM Reasoning Reliably Reuse Intermediate Results?](https://arxiv.org/abs/2610.27662v1)** | 2026-10-20 |  |
-| **[From Debate to Decision: Conformal Social Choice for Safe Multi-Agent Deliberation](https://arxiv.org/abs/2604.07667v2)** | 2026-10-20 |  |
-| **[CHIMERA: Compact Synthetic Data for Generalizable LLM Reasoning](https://arxiv.org/abs/2603.00889v2)** | 2026-10-20 |  |
-| **[Conversational AI for Perceived Cognitive Decline Screening in Older Adults](https://arxiv.org/abs/2610.27344v1)** | 2026-10-19 |  |
-| **[Sparse RL Relaxation for LLM Reasoning](https://arxiv.org/abs/2610.27220v1)** | 2026-10-19 | 19 pages |
-| **[REATS: LLM Reasoning-based Ensemble Learning for Adaptive Time Series Forecasting](https://arxiv.org/abs/2608.10149v2)** | 2026-10-19 |  |
-| **[BOSS: Token-Budgeted Online Sampling and Selection for LLM Reasoning](https://arxiv.org/abs/2610.26383v1)** | 2026-10-19 |  |
-| **[Truncated Reasoning Under a Budget: Evaluating System-1 Models as Decision-makers](https://arxiv.org/abs/2610.25768v1)** | 2026-10-19 |  |
 
 ## Skill
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Robust Soft Skill Adaptation via Behavioral Localization in Tool-Using Agents](https://arxiv.org/abs/2610.30041v1)** | 2026-10-21 |  |
+| **[Huayu-Global: Skillful real-time quasi-global precipitation retrieval](https://arxiv.org/abs/2610.29213v1)** | 2026-10-21 |  |
+| **[SkillNEO: Non-Elitist Evolutionary Optimization of Agent Skills](https://arxiv.org/abs/2610.20926v2)** | 2026-10-20 |  |
+| **[D-Skill: Distilling Teacher Knowledge through Agent Skills](https://arxiv.org/abs/2610.28914v1)** | 2026-10-20 | <details><summary>21 pa...</summary><p>21 pages, 4 figures, 9 tables</p></details> |
 | **[Learning Adaptable Dexterous Skills via Hybrid Dexterous Mimicking](https://arxiv.org/abs/2610.28628v1)** | 2026-10-20 | <details><summary>Proje...</summary><p>Project page: https://yuxuank.com/AdaDex/</p></details> |
+| **[ASPIRE: Agentic /Skills Discovery for Robotics](https://arxiv.org/abs/2607.00272v2)** | 2026-10-20 | <details><summary>41 pa...</summary><p>41 pages, 19 figures, 26 tables. Project page: https://research.nvidia.com/labs/gear/aspire/ Code: https://github.com/NVlabs/ASPIRE</p></details> |
 | **[VisualEvolve: A Skill Self-Evolution Framework for Visual Reasoning](https://arxiv.org/abs/2610.28386v1)** | 2026-10-20 | <details><summary>29 pa...</summary><p>29 pages, 9 figures. Project page: https://jiaweiwang-ai.github.io/VisualEvolve/</p></details> |
 | **[NestedVLA: Learning to Consolidate and Generate Skills for Vision-Language-Action Models](https://arxiv.org/abs/2610.23271v3)** | 2026-10-20 | <details><summary>Camer...</summary><p>Camera-ready version accepted at NeurIPS 2026. Updated to the final conference format and included the NeurIPS checklist. 30 pages, 3 figures. Code: https://github.com/WanyuGroup/NeurIPS2026-NestedVLA</p></details> |
 | **[Which Agent's Skill Should Change? Group-Relative Credit Assignment for Evolving Multi-Agent Teams](https://arxiv.org/abs/2610.27227v1)** | 2026-10-19 |  |
 | **[CodeSkill: Latent Skill Abstraction for Long-Horizon Code Agents](https://arxiv.org/abs/2609.33243v2)** | 2026-10-19 |  |
-| **[Humanoid Badminton: Learning Dynamic Racket Skills from Limited Human Motion Data](https://arxiv.org/abs/2609.31840v2)** | 2026-10-19 | <details><summary>Accep...</summary><p>Accepted at the 10th Conference on Robot Learning (CoRL 2026)</p></details> |
-| **[Compositional Humanoid Manipulation through Isomorphic Teleoperation and Independent Skill Routing](https://arxiv.org/abs/2610.26169v1)** | 2026-10-19 |  |
-| **[Procedural Exposure Bias in Skill-Augmented Language Model Agents](https://arxiv.org/abs/2610.26062v1)** | 2026-10-19 | <details><summary>26 pa...</summary><p>26 pages, 12 figures, 8 tables</p></details> |
-| **[SPEM: Structure-Aware Procedural Memory for Efficient Skill Use in LLM Agents](https://arxiv.org/abs/2610.26995v1)** | 2026-10-19 |  |
-| **[Understanding When Reflective Prompt and Skill Optimization Helps on Locally Served Reasoning Models: A Two-Model Study of GEPA and SkillOpt](https://arxiv.org/abs/2610.26020v1)** | 2026-10-19 | <details><summary>36 pa...</summary><p>36 pages, 10 figures, 11 tables</p></details> |
 
 ## RSI
 | **Title** | **Date** | **Comment** |
@@ -49,28 +49,28 @@ labels: documentation
 ## Evolve
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[TARSphere: A Robot-Oriented Full-Stack Framework for Long-Horizon Embodied Agents in Evolving Physical and Social Environments](https://arxiv.org/abs/2610.30043v1)** | 2026-10-21 | <details><summary>13 pa...</summary><p>13 pages, 8 figures, 7 tables. Project page: https://xuyicheng-zju.github.io/TARSphere/ Code: https://github.com/xuyicheng-zju/TARSphere</p></details> |
+| **[GuideEvolve: Self-Evolving Agent Framework with Expert Guidance and 3Ts Mechanisms](https://arxiv.org/abs/2610.30017v1)** | 2026-10-21 | <details><summary>14 pa...</summary><p>14 pages, 10 images/figures</p></details> |
+| **[Evolving with Open Worlds: Towards Recursive Self-Improvement for Future Forecasting](https://arxiv.org/abs/2610.29784v1)** | 2026-10-21 | <details><summary>47 pa...</summary><p>47 pages, 13 figures. Working in progress</p></details> |
+| **[From VLM Planners to Robotic Agents: Self-Evolving Harnesses for History-Dependent Manipulation](https://arxiv.org/abs/2610.29560v1)** | 2026-10-21 |  |
+| **[Learning from Repair Experience: Self-Evolving Agents for Automated Vulnerability Repair](https://arxiv.org/abs/2605.30105v3)** | 2026-10-21 | <details><summary>has b...</summary><p>has been accepted to ICSE 2027</p></details> |
+| **[Evolving Self-tuning Benchmarks for Long-Horizon Tool Use](https://arxiv.org/abs/2610.27307v2)** | 2026-10-21 |  |
+| **[HarnessPAI: An Evolving Harness for Physical AI](https://arxiv.org/abs/2609.29166v2)** | 2026-10-21 | <details><summary>45 pa...</summary><p>45 pages, 24 figures, 15 tables</p></details> |
 | **[Evolving Agent Interfaces](https://arxiv.org/abs/2610.28601v1)** | 2026-10-20 |  |
 | **[Evolving Semantic Indexes for Generative Retrieval](https://arxiv.org/abs/2610.28568v1)** | 2026-10-20 |  |
 | **[Beyond Trajectory Statistics: Community-Consistent Human Mobility Generation via Evolving User-Location Graphs](https://arxiv.org/abs/2610.28467v1)** | 2026-10-20 |  |
-| **[Object-Oriented Harness: Evolving Agent Harnesses through Object-Oriented Design](https://arxiv.org/abs/2610.28380v1)** | 2026-10-20 | 20 pages, 10 figures |
-| **[ChartEvo: Self-Evolving Agent Harnesses for Long-Tail Chart Reasoning](https://arxiv.org/abs/2610.28282v1)** | 2026-10-20 |  |
-| **[Learn to Modify: Self-evolving Multi-agent Refinement Framework for Conversational Text-to-Motion Generation](https://arxiv.org/abs/2610.28210v1)** | 2026-10-20 |  |
-| **[MMEnterprise-Bench: Evaluating Enterprise Agents over Evolving Multimodal Records](https://arxiv.org/abs/2610.27911v1)** | 2026-10-20 | <details><summary>35 pa...</summary><p>35 pages, 16 figures, including appendices. Under review</p></details> |
-| **[TTCS: Test-Time Curriculum Synthesis for Self-Evolving](https://arxiv.org/abs/2601.22628v3)** | 2026-10-20 | NeurIPS 2026 Poster |
-| **[Self-Evolving Agents through Privileged Retrospective Distillation](https://arxiv.org/abs/2610.27495v1)** | 2026-10-20 | 26 pages, 5 figures |
-| **[KPHarness: Co-Evolving Knowledge and Probing for Long-Horizon Gaming Harnesses](https://arxiv.org/abs/2610.27417v1)** | 2026-10-20 |  |
 
 ## Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[GBClaw: An agentic AI framework for atomistic grain boundary research and mechanistic discovery](https://arxiv.org/abs/2610.28629v1)** | 2026-10-20 |  |
-| **[TraceLite: Efficient Trace Reduction for SWE Agents via Optical Compression and Redundancy Removal](https://arxiv.org/abs/2610.28612v1)** | 2026-10-20 |  |
-| **[Evolving Agent Interfaces](https://arxiv.org/abs/2610.28601v1)** | 2026-10-20 |  |
-| **[AgenticRoboRL: Bringing Coding-Agent Post-Training to Agentic Robotics](https://arxiv.org/abs/2610.28589v1)** | 2026-10-20 |  |
-| **[Capable Teacher, Myopic Scorer: Reward-Free Teacher Repair for Agentic On-Policy Distillation](https://arxiv.org/abs/2610.28586v1)** | 2026-10-20 | <details><summary>17 pa...</summary><p>17 pages, 5 figures, 13 tables. Project page: https://tree-shu-zhao.github.io/r2s/</p></details> |
-| **[SceneRig: An Agentic System for Simulation-Ready 3D Scene Reconstruction from Single Images](https://arxiv.org/abs/2610.28585v1)** | 2026-10-20 | <details><summary>Accep...</summary><p>Accepted at CoRL 2026 Agentic Robotics Workshop. Project page: https://red-fairy.github.io/SceneRig/</p></details> |
-| **[Gibson Env: Real-World Perception for Embodied Agents](https://arxiv.org/abs/1808.10654v2)** | 2026-10-20 | <details><summary>Acces...</summary><p>Access the code, dataset, and project website at http://gibsonenv.stanford.edu/ . CVPR 2018 (spotlight)</p></details> |
-| **[Cache Engineering for Agents](https://arxiv.org/abs/2610.28577v1)** | 2026-10-20 |  |
-| **[OverSeer: Multi-Agent World Models Beyond What Agents See](https://arxiv.org/abs/2610.28554v1)** | 2026-10-20 |  |
-| **[ASH: Agents that Self-Hone in Long-Horizon Worlds](https://arxiv.org/abs/2605.14211v6)** | 2026-10-20 | NeurIPS 2026 |
+| **[Agentic World Action Models](https://arxiv.org/abs/2610.30136v1)** | 2026-10-21 | <details><summary>Proje...</summary><p>Project page: https://agentic-wam.github.io/</p></details> |
+| **[World of SWECraft: Agent Collaboration at Scale via Simulated Software Worlds](https://arxiv.org/abs/2610.24061v2)** | 2026-10-21 | <details><summary>33 pa...</summary><p>33 pages, 9 figures, 7 tables</p></details> |
+| **[Quant-Arena: Benchmarking LLM Agents for Quantitative Trading Research](https://arxiv.org/abs/2610.30113v1)** | 2026-10-21 | <details><summary>Proje...</summary><p>Project page: https://lab.einsia.ai/quant-arena</p></details> |
+| **[Multimodal Embodied Agents: A Unified Capability-centric Perspective from Computer-Use to Robot-Use](https://arxiv.org/abs/2610.30108v1)** | 2026-10-21 | <details><summary>Proje...</summary><p>Project website: https://showlab.github.io/Awesome-Multimodal-Embodied-Agent/</p></details> |
+| **[Did the Problem Actually Get Harder? Testing LLMs on Paired P and NP-Complete Problems Hardened by Adversarial Multi-Agent Rewriting](https://arxiv.org/abs/2610.30103v1)** | 2026-10-21 | <details><summary>https...</summary><p>https://github.com/Labib1610/complexity-benchmark</p></details> |
+| **[The Best Programming Language for Tokenmaxxing: An Investigation of Coding Agent Behavior Across Programming Languages](https://arxiv.org/abs/2607.22807v2)** | 2026-10-21 |  |
+| **[Parallel AI Agent Collaboration as Graph-Structured Distributed Block Optimization](https://arxiv.org/abs/2610.30074v1)** | 2026-10-21 | 24 pages, 8 figures |
+| **[Charts as Epistemic Actions for Experience-Driven Agentic Data Analysis](https://arxiv.org/abs/2610.30072v1)** | 2026-10-21 | <details><summary>23 pa...</summary><p>23 pages, 5 figures, 9 tables. Preprint</p></details> |
+| **[Does Centralized Learning Help Embodied Agents Coordinate, and When Can a Tabular Study Tell?](https://arxiv.org/abs/2601.17454v3)** | 2026-10-21 | <details><summary>10 pa...</summary><p>10 pages, 2 figures. Under peer review at AAMAS 2027</p></details> |
+| **[SWE-DIVE: Multi-Turn Coding Agent Evaluation with Dynamic User Simulation](https://arxiv.org/abs/2610.30047v1)** | 2026-10-21 | <details><summary>Accep...</summary><p>Accepted at the NeurIPS 2026 workshop "Grounded User Simulation for Model Evaluation and Training: Diversity, Fidelity, and Validity'' (non-archival)</p></details> |
 
