@@ -1,5 +1,5 @@
 ---
-title: Latest 50 Papers - October 23, 2026
+title: Latest 50 Papers - October 26, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/NeoFii/Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,9 @@ labels: documentation
 ## LLM Reasoning
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[When Should LLMs Reason? Adaptive Inference Routing via Entropy Dynamics](https://arxiv.org/abs/2605.22873v3)** | 2026-10-22 |  |
+| **[Tracing Hallucinations in LLM Reasoning for UML Class Diagram Generation: An Empirical Taxonomy and Mitigation Study](https://arxiv.org/abs/2610.30946v1)** | 2026-10-22 |  |
+| **[Same Beliefs, Different Policies: Learning Reusable Representations for Early Stopping in LLM Reasoning](https://arxiv.org/abs/2610.30450v1)** | 2026-10-21 | Under Review |
 | **[HiddenLens: A Multi-Layer LLM Framework for Detecting and Resolving Hidden Assumptions in Software Requirements](https://arxiv.org/abs/2610.29996v1)** | 2026-10-21 | <details><summary>24 pa...</summary><p>24 pages, 14 figures, 10 tables</p></details> |
 | **[Neither Stochastic Parroting nor AGI: LLMs Solve Tasks through Context-Directed Extrapolation from Training Data Priors](https://arxiv.org/abs/2505.23323v3)** | 2026-10-21 | <details><summary>14 pa...</summary><p>14 pages, 1 figure (including appendix)</p></details> |
 | **[A rubric landscape for evaluating clinical reasoning in large language models: what exists, what is missing, and what needs to be combined](https://arxiv.org/abs/2610.01938v2)** | 2026-10-21 | <details><summary>13 pa...</summary><p>13 pages, 1 table. Structured narrative review</p></details> |
@@ -14,29 +17,26 @@ labels: documentation
 | **[MARS: Multi-hop Adaptive Retrieval and SPARQL Generation for KGQA](https://arxiv.org/abs/2607.14561v3)** | 2026-10-21 | <details><summary>EKAW ...</summary><p>EKAW 2026 (https://ekaw2026.di.unito.it/accepted-contributions/papers)</p></details> |
 | **[When Form Changes but Logic Doesn't: Building Logic-invariant LLMs through Logical Structure](https://arxiv.org/abs/2610.25402v2)** | 2026-10-21 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026, 24 Pages</p></details> |
 | **[ReAPO: Retry-Aware Policy Optimization for Efficient Exploration in LLM Reasoning](https://arxiv.org/abs/2610.28770v1)** | 2026-10-20 |  |
-| **[Semantic Observability for Autonomous Systems Diagnostics](https://arxiv.org/abs/2610.28611v1)** | 2026-10-20 | <details><summary>8 pag...</summary><p>8 pages, 3 figures. Foundational architecture paper; companion evaluation paper forthcoming</p></details> |
-| **[Temporal Evidence-Parameter Co-Alignment for LLM Reasoning over Temporal Knowledge Graphs](https://arxiv.org/abs/2610.28176v1)** | 2026-10-20 |  |
-| **[When Can LLM Reasoning Reliably Reuse Intermediate Results?](https://arxiv.org/abs/2610.27662v1)** | 2026-10-20 |  |
 
 ## Skill
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Robust Soft Skill Adaptation via Behavioral Localization in Tool-Using Agents](https://arxiv.org/abs/2610.30041v1)** | 2026-10-21 |  |
-| **[Huayu-Global: Skillful real-time quasi-global precipitation retrieval](https://arxiv.org/abs/2610.29213v1)** | 2026-10-21 |  |
-| **[SkillNEO: Non-Elitist Evolutionary Optimization of Agent Skills](https://arxiv.org/abs/2610.20926v2)** | 2026-10-20 |  |
-| **[D-Skill: Distilling Teacher Knowledge through Agent Skills](https://arxiv.org/abs/2610.28914v1)** | 2026-10-20 | <details><summary>21 pa...</summary><p>21 pages, 4 figures, 9 tables</p></details> |
-| **[Learning Adaptable Dexterous Skills via Hybrid Dexterous Mimicking](https://arxiv.org/abs/2610.28628v1)** | 2026-10-20 | <details><summary>Proje...</summary><p>Project page: https://yuxuank.com/AdaDex/</p></details> |
-| **[ASPIRE: Agentic /Skills Discovery for Robotics](https://arxiv.org/abs/2607.00272v2)** | 2026-10-20 | <details><summary>41 pa...</summary><p>41 pages, 19 figures, 26 tables. Project page: https://research.nvidia.com/labs/gear/aspire/ Code: https://github.com/NVlabs/ASPIRE</p></details> |
-| **[VisualEvolve: A Skill Self-Evolution Framework for Visual Reasoning](https://arxiv.org/abs/2610.28386v1)** | 2026-10-20 | <details><summary>29 pa...</summary><p>29 pages, 9 figures. Project page: https://jiaweiwang-ai.github.io/VisualEvolve/</p></details> |
-| **[NestedVLA: Learning to Consolidate and Generate Skills for Vision-Language-Action Models](https://arxiv.org/abs/2610.23271v3)** | 2026-10-20 | <details><summary>Camer...</summary><p>Camera-ready version accepted at NeurIPS 2026. Updated to the final conference format and included the NeurIPS checklist. 30 pages, 3 figures. Code: https://github.com/WanyuGroup/NeurIPS2026-NestedVLA</p></details> |
-| **[Which Agent's Skill Should Change? Group-Relative Credit Assignment for Evolving Multi-Agent Teams](https://arxiv.org/abs/2610.27227v1)** | 2026-10-19 |  |
-| **[CodeSkill: Latent Skill Abstraction for Long-Horizon Code Agents](https://arxiv.org/abs/2609.33243v2)** | 2026-10-19 |  |
+| **[How Does RL Post-training Induce Skill Composition? A Case Study on Countdown](https://arxiv.org/abs/2512.01775v2)** | 2026-10-22 |  |
+| **[Adaptive Skill Granularity for Coding Agents: Runtime Routing and Macro-to-Micro Recovery](https://arxiv.org/abs/2610.31461v1)** | 2026-10-22 |  |
+| **[R$^2$Orch: Recursive Self-Improvement for Agent Orchestration via Self-Play within a Skill-Internalization Loop](https://arxiv.org/abs/2610.22740v2)** | 2026-10-22 | <details><summary>21 pa...</summary><p>21 pages including appendix</p></details> |
+| **[SkillFlow: Flow-Driven Recursive Skill Evolution for Agentic Orchestration](https://arxiv.org/abs/2605.14089v2)** | 2026-10-22 | <details><summary>49 pa...</summary><p>49 pages, 5 figures, 6 tables</p></details> |
+| **[R$^2$ Flow: Recursive Self-Improvement via Recursive Skill Evolution](https://arxiv.org/abs/2609.33867v3)** | 2026-10-22 | 27 pages |
+| **[V2-STRep: VLM-Grounded Structured Task Representations for Reusable Robot Skills Acquired from Generated Videos](https://arxiv.org/abs/2609.20582v2)** | 2026-10-22 |  |
+| **[Unifying Goal-Conditioned RL and Unsupervised Skill Learning via Control-Maximization](https://arxiv.org/abs/2605.06145v2)** | 2026-10-22 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026 (Oral Presentation)</p></details> |
+| **[How to Teach Large Multimodal Models New Skills](https://arxiv.org/abs/2510.08564v3)** | 2026-10-22 | <details><summary>ECCV ...</summary><p>ECCV 2026 Spotlight. Code is available at https://github.com/jessemelpolio/LMM_CL</p></details> |
+| **[Impacts of generative AI skill development on academic adaptation and learning outcomes among university students](https://arxiv.org/abs/2610.30599v1)** | 2026-10-22 |  |
+| **[VisCurate: Evaluating Behavioral Equivalence of Visual Skills](https://arxiv.org/abs/2610.30405v1)** | 2026-10-21 | <details><summary>Accep...</summary><p>Accepted at the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2027), Main Conference</p></details> |
 
 ## RSI
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[RSI Control: Can AI Models Perform Covert Sabotage in the Self-Improvement Process?](https://arxiv.org/abs/2610.27735v2)** | 2026-10-21 |  |
 | **[MaD-RSI: Model-as-Data for Recursive Self-Improvement of Agent Harnesses](https://arxiv.org/abs/2610.28201v1)** | 2026-10-20 |  |
-| **[RSI Control: Can AI Models Perform Covert Sabotage in the Self-Improvement Process?](https://arxiv.org/abs/2610.27735v1)** | 2026-10-20 |  |
 | **[Where is Physical RSI capability from? An Observational Scaling Law of LLM-as-policy](https://arxiv.org/abs/2610.26848v1)** | 2026-10-19 | Tech Report |
 | **[CoEvo-RSI: When Harnesses Evolve, Which Models Should Follow?](https://arxiv.org/abs/2610.25078v1)** | 2026-10-18 |  |
 | **[Terminal-RSI: Recursive Self-Improving Terminal Agents via Recursive Self-Rewrite and Policy-Refine](https://arxiv.org/abs/2610.22192v1)** | 2026-10-15 | <details><summary>28 pa...</summary><p>28 pages, 16 figures, 5 tables</p></details> |
@@ -49,28 +49,28 @@ labels: documentation
 ## Evolve
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[TARSphere: A Robot-Oriented Full-Stack Framework for Long-Horizon Embodied Agents in Evolving Physical and Social Environments](https://arxiv.org/abs/2610.30043v1)** | 2026-10-21 | <details><summary>13 pa...</summary><p>13 pages, 8 figures, 7 tables. Project page: https://xuyicheng-zju.github.io/TARSphere/ Code: https://github.com/xuyicheng-zju/TARSphere</p></details> |
-| **[GuideEvolve: Self-Evolving Agent Framework with Expert Guidance and 3Ts Mechanisms](https://arxiv.org/abs/2610.30017v1)** | 2026-10-21 | <details><summary>14 pa...</summary><p>14 pages, 10 images/figures</p></details> |
-| **[Evolving with Open Worlds: Towards Recursive Self-Improvement for Future Forecasting](https://arxiv.org/abs/2610.29784v1)** | 2026-10-21 | <details><summary>47 pa...</summary><p>47 pages, 13 figures. Working in progress</p></details> |
-| **[From VLM Planners to Robotic Agents: Self-Evolving Harnesses for History-Dependent Manipulation](https://arxiv.org/abs/2610.29560v1)** | 2026-10-21 |  |
-| **[Learning from Repair Experience: Self-Evolving Agents for Automated Vulnerability Repair](https://arxiv.org/abs/2605.30105v3)** | 2026-10-21 | <details><summary>has b...</summary><p>has been accepted to ICSE 2027</p></details> |
-| **[Evolving Self-tuning Benchmarks for Long-Horizon Tool Use](https://arxiv.org/abs/2610.27307v2)** | 2026-10-21 |  |
-| **[HarnessPAI: An Evolving Harness for Physical AI](https://arxiv.org/abs/2609.29166v2)** | 2026-10-21 | <details><summary>45 pa...</summary><p>45 pages, 24 figures, 15 tables</p></details> |
-| **[Evolving Agent Interfaces](https://arxiv.org/abs/2610.28601v1)** | 2026-10-20 |  |
-| **[Evolving Semantic Indexes for Generative Retrieval](https://arxiv.org/abs/2610.28568v1)** | 2026-10-20 |  |
-| **[Beyond Trajectory Statistics: Community-Consistent Human Mobility Generation via Evolving User-Location Graphs](https://arxiv.org/abs/2610.28467v1)** | 2026-10-20 |  |
+| **[MLEvolve: A Self-Evolving Framework for Automated Machine Learning Algorithm Discovery](https://arxiv.org/abs/2606.06473v2)** | 2026-10-22 | <details><summary>24 pa...</summary><p>24 pages, 8 figures, 6 tables. Project page: https://internscience.github.io/MLEvolve/</p></details> |
+| **[HERD: Harness-Evolving Recursive Distillation for Continual Learning](https://arxiv.org/abs/2610.31401v1)** | 2026-10-22 | 22 pages, 9 figures |
+| **[Evolving with Open Worlds: Towards Recursive Self-Improvement for Future Forecasting](https://arxiv.org/abs/2610.29784v2)** | 2026-10-22 | <details><summary>47 pa...</summary><p>47 pages, 13 figures. Working in progress</p></details> |
+| **[EvoSteer: Online Self-Evolving Graph Orchestration via Reference-Anchored Credit Assignment](https://arxiv.org/abs/2609.38661v2)** | 2026-10-22 |  |
+| **[Evolving Federated Density Peak Clustering with Shuffler-Based Anonymization](https://arxiv.org/abs/2610.31211v1)** | 2026-10-22 | <details><summary>30 pa...</summary><p>30 pages, 4 figures. Published open access (CC BY 4.0) in Evolving Systems 17, 123 (2026). Code: https://github.com/mihaozbot/eFDPC</p></details> |
+| **[Large Language Models Meet Bayesian Optimization: Towards Self-evolving Wireless Digital Twins](https://arxiv.org/abs/2610.31192v1)** | 2026-10-22 |  |
+| **[Sci-CoE: Co-evolving Scientific Reasoning LLMs via Geometric Consensus with Sparse Supervision](https://arxiv.org/abs/2602.12164v2)** | 2026-10-22 |  |
+| **[ADAPT for Science: A Multi-Agent System for Self-Evolving Scientific Optimization](https://arxiv.org/abs/2610.30851v1)** | 2026-10-22 | <details><summary>Inclu...</summary><p>Includes supplementary material</p></details> |
+| **[ManimAgent: Self-Evolving Multimodal Agents for Visual Education](https://arxiv.org/abs/2606.30296v3)** | 2026-10-22 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 (Main Conference). Project page: https://manimagent.github.io/</p></details> |
+| **[Large language models show systematic failures in incorporating evolving medical knowledge](https://arxiv.org/abs/2610.30631v1)** | 2026-10-22 |  |
 
 ## Agent
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Agentic World Action Models](https://arxiv.org/abs/2610.30136v1)** | 2026-10-21 | <details><summary>Proje...</summary><p>Project page: https://agentic-wam.github.io/</p></details> |
-| **[World of SWECraft: Agent Collaboration at Scale via Simulated Software Worlds](https://arxiv.org/abs/2610.24061v2)** | 2026-10-21 | <details><summary>33 pa...</summary><p>33 pages, 9 figures, 7 tables</p></details> |
-| **[Quant-Arena: Benchmarking LLM Agents for Quantitative Trading Research](https://arxiv.org/abs/2610.30113v1)** | 2026-10-21 | <details><summary>Proje...</summary><p>Project page: https://lab.einsia.ai/quant-arena</p></details> |
-| **[Multimodal Embodied Agents: A Unified Capability-centric Perspective from Computer-Use to Robot-Use](https://arxiv.org/abs/2610.30108v1)** | 2026-10-21 | <details><summary>Proje...</summary><p>Project website: https://showlab.github.io/Awesome-Multimodal-Embodied-Agent/</p></details> |
-| **[Did the Problem Actually Get Harder? Testing LLMs on Paired P and NP-Complete Problems Hardened by Adversarial Multi-Agent Rewriting](https://arxiv.org/abs/2610.30103v1)** | 2026-10-21 | <details><summary>https...</summary><p>https://github.com/Labib1610/complexity-benchmark</p></details> |
-| **[The Best Programming Language for Tokenmaxxing: An Investigation of Coding Agent Behavior Across Programming Languages](https://arxiv.org/abs/2607.22807v2)** | 2026-10-21 |  |
-| **[Parallel AI Agent Collaboration as Graph-Structured Distributed Block Optimization](https://arxiv.org/abs/2610.30074v1)** | 2026-10-21 | 24 pages, 8 figures |
-| **[Charts as Epistemic Actions for Experience-Driven Agentic Data Analysis](https://arxiv.org/abs/2610.30072v1)** | 2026-10-21 | <details><summary>23 pa...</summary><p>23 pages, 5 figures, 9 tables. Preprint</p></details> |
-| **[Does Centralized Learning Help Embodied Agents Coordinate, and When Can a Tabular Study Tell?](https://arxiv.org/abs/2601.17454v3)** | 2026-10-21 | <details><summary>10 pa...</summary><p>10 pages, 2 figures. Under peer review at AAMAS 2027</p></details> |
-| **[SWE-DIVE: Multi-Turn Coding Agent Evaluation with Dynamic User Simulation](https://arxiv.org/abs/2610.30047v1)** | 2026-10-21 | <details><summary>Accep...</summary><p>Accepted at the NeurIPS 2026 workshop "Grounded User Simulation for Model Evaluation and Training: Diversity, Fidelity, and Validity'' (non-archival)</p></details> |
+| **[BrickWright: Agentic Creation of Physically Feasible Brick Builds](https://arxiv.org/abs/2610.31651v1)** | 2026-10-22 |  |
+| **[EpiSEM-Bench: Evaluating Safety and Evidence Recovery in LLM Agents under Missing Evidence](https://arxiv.org/abs/2610.31650v1)** | 2026-10-22 |  |
+| **[ATTUNE: Agentic Throughput Tuning for LLM Training](https://arxiv.org/abs/2610.17528v2)** | 2026-10-22 | <details><summary>24 pa...</summary><p>24 pages, 2 figures. v2: adds NVIDIA NeMo AutoModel benchmark recipes, production deployment results and the OpenRecipes leaderboard</p></details> |
+| **[Can an Agent Debug a Web Corpus? Agentic Auditing of Slovak FineWeb2](https://arxiv.org/abs/2610.31636v1)** | 2026-10-22 | <details><summary>Accep...</summary><p>Accepted to WaC Workshop at EMNLP 2026</p></details> |
+| **[TabAgent: Distilling LLM Agent Components into Cheap Classifiers](https://arxiv.org/abs/2602.16429v3)** | 2026-10-22 | <details><summary>67 pa...</summary><p>67 pages, 14 figures, 26 tables. v2 is a substantial revision with a new title and two added authors. The evaluation is extended from AppWorld to seven agent benchmarks across three decision families (set retrieval, classification, policy and reward), and TabHead is now a CatBoost classifier with an ablation over classical and neural heads</p></details> |
+| **[Contestable Agents for Data Governance: Recording Human Stewardship of AI-Generated Metadata Across Structured and Unstructured Systems](https://arxiv.org/abs/2610.31553v1)** | 2026-10-22 | <details><summary>15 pa...</summary><p>15 pages, 2 figures, 2 tables</p></details> |
+| **[Same Luck, Different Choice: Twin-World Credit Assignment for Agentic Reinforcement Learning](https://arxiv.org/abs/2610.31544v1)** | 2026-10-22 |  |
+| **[Semantics Delivery Network: Rethinking Web Retrieval Infrastructure for LLM Agents](https://arxiv.org/abs/2609.22486v2)** | 2026-10-22 | <details><summary>Accep...</summary><p>Accepted and to appear at the 25th ACM Workshop on Hot Topics in Networks (HotNets 2026). 13 pages, 3 figures</p></details> |
+| **[AgentVQA: A Unified Benchmark for Agentic Visual Understanding](https://arxiv.org/abs/2610.31494v1)** | 2026-10-22 | <details><summary>Proje...</summary><p>Project page: https://zlab-princeton.github.io/AgentVQA</p></details> |
+| **[Adaptive Skill Granularity for Coding Agents: Runtime Routing and Macro-to-Micro Recovery](https://arxiv.org/abs/2610.31461v1)** | 2026-10-22 |  |
 
